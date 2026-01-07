@@ -1,5 +1,5 @@
 #+TITLE: Unterrichtsnotizen für das 4. Semester
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 * Inhaltsangabe
 - [[file:math/index.org][Mathe]]
