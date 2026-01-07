@@ -11,27 +11,27 @@
 Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen. Gesucht sind die Werte dieser Variablen.
 
 ** Gleichsetzungsverfahren
-- Anwendung, wenn beide Gleichungen nach der selben Variablen auflösbar sind.
-  $$y_1 = mx+b$$
-  $$y_2 = mx+b$$
-  1. Schritt: Beide Gleichungen nach derselben Variablen auflösen.
-  2. Schritt: Gleichsetzen
-  3. Schritt: Nach der verbleibenden Variablen umstellen.
-  4. Schritt: Die Lösung in die Variablen einsetzen.
-  Bsp(umstellen nach x).:
-  $$y=2x+1$$
-  $$y=-x+4$$
-  Gleichsetzen:
-  $$2x+1=-x+4|+x$$
-  $$3x+1 = 4|-1$$
-  $$3x = 3 |\div3$$
-  $$x = 1$$
+Anwendung, wenn beide Gleichungen nach der selben Variablen auflösbar sind.
+$$y_1 = mx+b$$
+$$y_2 = mx+b$$
+1. Schritt: Beide Gleichungen nach derselben Variablen auflösen.
+2. Schritt: Gleichsetzen
+3. Schritt: Nach der verbleibenden Variablen umstellen.
+4. Schritt: Die Lösung in die Variablen einsetzen.
+Bsp(umstellen nach x).:
+$$y=2x+1$$
+$$y=-x+4$$
+Gleichsetzen:
+$$2x+1=-x+4|+x$$
+$$3x+1 = 4|-1$$
+$$3x = 3 |\div3$$
+$$x = 1$$
 
-  Einsetzen(Eine der Gleichungen reicht, hier beide):
-  $$2\cdot1+1=3$$
-  $$-1+4=3$$
-  $$y=3$$
-  $$S=(1/3)$$
+Einsetzen(Eine der Gleichungen reicht, hier beide):
+$$2\cdot1+1=3$$
+$$-1+4=3$$
+$$y=3$$
+$$S=(1/3)$$
   
 ** Einsetzungsverfahren
 Bsp.:
@@ -76,7 +76,7 @@ $$x=2$$
   3x & = 6 & \text{(Lösung)}
 \end{array}
 
-Beispiel:
+Bsp.:
 
 \begin{array}{rll}
   -4x - 2y & = -20 & \text{(I)} \\
