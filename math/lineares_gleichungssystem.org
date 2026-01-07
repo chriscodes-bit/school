@@ -1,5 +1,5 @@
 #+TITLE: Lineare Gleichungssysteme
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD: <script src="../spoiler.js" defer></script>
 #+macro: spoiler @@html:<details><summary>$1</summary>@@
 #+macro: endspoiler @@html:</details>@@
