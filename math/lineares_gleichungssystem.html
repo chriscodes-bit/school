@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-01-07 Wed 19:36 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lineare Gleichungssysteme</title>
+<meta name="author" content="Chris" />
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script src="../spoiler.js" defer></script>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Lineare Gleichungssysteme</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgb0c820b">1. Lineare Gleichungssysteme</a>
+<ul>
+<li><a href="#org7f609ae">1.1. Gleichsetzungsverfahren</a></li>
+<li><a href="#org21d8095">1.2. Einsetzungsverfahren</a></li>
+<li><a href="#org67b96ec">1.3. Additionsverfahren</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<ul class="org-ul">
+<li><a href="./index.html">Zurück</a></li>
+</ul>
+<div id="outline-container-orgb0c820b" class="outline-2">
+<h2 id="orgb0c820b"><span class="section-number-2">1.</span> Lineare Gleichungssysteme</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen. Gesucht sind die Werte dieser Variablen.
+</p>
+</div>
+<div id="outline-container-org7f609ae" class="outline-3">
+<h3 id="org7f609ae"><span class="section-number-3">1.1.</span> Gleichsetzungsverfahren</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li><p>
+Anwendung, wenn beide Gleichungen nach der selben Variablen auflösbar sind.
+\[y_1 = mx+b\]
+\[y_2 = mx+b\]
+</p>
+<ol class="org-ol">
+<li>Schritt: Beide Gleichungen nach derselben Variablen auflösen.</li>
+<li>Schritt: Gleichsetzen</li>
+<li>Schritt: Nach der verbleibenden Variablen umstellen.</li>
+<li>Schritt: Die Lösung in die Variablen einsetzen.</li>
+</ol>
+<p>
+Bsp(umstellen nach x).:
+\[y=2x+1\]
+\[y=-x+4\]
+Gleichsetzen:
+\[2x+1=-x+4|+x\]
+\[3x+1 = 4|-1\]
+\[3x = 3 |\div3\]
+\[x = 1\]
+</p>
+
+<p>
+Einsetzen(Eine der Gleichungen reicht, hier beide):
+\[2\cdot1+1=3\]
+\[-1+4=3\]
+\[y=3\]
+\[S=(1/3)\]
+</p></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org21d8095" class="outline-3">
+<h3 id="org21d8095"><span class="section-number-3">1.2.</span> Einsetzungsverfahren</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Bsp.:
+\[\text{1.) }x-y=1\]
+\[\text{2.) }2x+y=5\]
+</p>
+
+<p>
+\[2x+y=5\]
+\[2(1+y)+y=5\]
+\[2+2y+y=5\]
+\[2+3y=5|-2\]
+\[3y=3|\div3\]
+\[y=1\]
+</p>
+
+
+<ol class="org-ol">
+<li>Schritt: Eine Gleichung nach x oder y auflösen.</li>
+<li>Schritt: Variablen bestimmen</li>
+<li>Schritt: Variable in eine der Gleichungen einsetzen, um die 2. Variable zu bestimmen.</li>
+</ol>
+
+<p>
+\[x-1=1\]
+\[x-1=1|+1\]
+\[x=2\]
+</p>
+
+<p>
+\[2*2+1=5\]
+\[S=(2/1)\]
+</p>
+</div>
+</div>
+<div id="outline-container-org67b96ec" class="outline-3">
+<h3 id="org67b96ec"><span class="section-number-3">1.3.</span> Additionsverfahren</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Bsp.:
+\[2x+y=5\]
+\[x-y=1\]
+</p>
+
+<ol class="org-ol">
+<li>Schritt: Zielvariable auswählen und Gleichen anpassen</li>
+<li>Schritt: Zielvariable auswählen</li>
+<li>Schritt: Lösung in eine der Variablen einsetzen</li>
+</ol>
+<p>
+\[2x+y=5\]
+\[x-y=1\]
+\[2x+x=6\]
+\[x=2\]
+</p>
+
+\begin{array}{rll}
+  2x + y & = 5 & \text{(I)} \\
+  x - y & = 1 & \text{(II)} \\ \hline
+  3x & = 6 & \text{(Lösung)}
+\end{array}
+
+<p>
+Beispiel:
+</p>
+
+\begin{array}{rll}
+  -4x - 2y & = -20 & \text{(I)} \\
+  -4x + 4y & = -8 & \text{(II)} \\ \hline
+  4x + 2y & = 20  & \\
+  -4x + 4y & = -8 &  \\ \hline
+  6y & = 12 |\div 6 & \\
+  y & = 2 & \text{(Lösung)}
+\end{array}
+
+<p>
+\[-4x+4*2=-8\]
+\[-4x+8=-8|-8\]
+\[-4x=-16|\div4\]
+\[x=4\]
+</p>
+
+<p>
+\[S(4/2)\]
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Chris</p>
+<p class="date">Created: 2026-01-07 Wed 19:36</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

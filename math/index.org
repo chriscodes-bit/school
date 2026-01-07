@@ -1,0 +1,5 @@
+#+TITLE: Mathe Notizen aus dem Unterricht
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+- [[file:lineares_gleichungssystem.org][Lineares Gleichungssystem]]
+
+- [[file:../index.org][Zurück zu den Fächern]]
