@@ -1,0 +1,21 @@
+#+TITLE: Fenstertheater
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <script src="../spoiler.js" defer></script>
+#+macro: spoiler @@html:<details><summary>$1</summary>@@
+#+macro: endspoiler @@html:</details>@@
+#+macro: line -----
+
+- [[file:./index.org][Zurück]]
+
+* Welche Eigenschaften der Menschen werden mit dieser Geschichte allgemein herausgehoben?
+- Neugierde (ins Haus der anderen schauen) - Gaffen
+- Wenig Privatsphäre
+- Einsamkeit (die Frau hat eventuell nichts anderes, viel Zeit)
+- Missverständnis (das Gefühl zu haben, es geht immer um einen selbst)
+
+* Gibt es ein aktuelles Problem, das diese Geschichte kritisiert?
+- Gaffen / Kein Schamgefühl / Voyeurismus
+- Wenig Privatsphäre
+    - Neugierde am Leben der anderen Menschen über ein Maß hinaus, das akzeptabel ist. Z.B.
+      Bei Unfällen zuschauen und filmen
+    - Aber auch: Das übermäßige Teilen des eigenen Lebens mit anderen. Z.B. TikTok, Instagram

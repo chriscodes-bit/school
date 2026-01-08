@@ -1,0 +1,24 @@
+#+TITLE: Lineare Gleichungssysteme
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <script src="../spoiler.js" defer></script>
+#+macro: spoiler @@html:<details><summary>$1</summary>@@
+#+macro: endspoiler @@html:</details>@@
+#+macro: line -----
+
+- [[file:./index.org][Zurück]]
+
+* Erzählperspektive
+
+Eine Erzählperspektive ist die Sicht des Erzählers
+
+** Auktoriale Erzählperspektive
+Der Erzähler ist allwissen(das heißt er kennt die Gedanken und Gefühle aller Handelnden!)
+
+** Personale Erzählperspektive
+Wird aus der Sichtweise einer Figur erzählt. Diese Figur kann nur das eigene Denken und Wissen erzählen
+und hat eine beschränkte Wahrnehmung. Auch kann das Erzählte durch die Einstellung(Gedanken und Gefühle)
+der Figur beeinflusst sein. Das Handeln und die Gedanken können intensiver vermittelt werden.
+
+** Neutrale Erzählperspektive
+Erzählt wird nicht aus Sicht einer bestimmten Figur, die Handlung steht im Vordergrund. Der neutrale
+Erzähler weiß auch nicht alles über die Gedanken und Gefühle der Figuren.
