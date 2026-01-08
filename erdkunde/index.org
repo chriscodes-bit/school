@@ -1,0 +1,15 @@
+#+TITLE: Unterrichtsnotizen für das 4. Semester
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* [[file:../index.org][Zurück zu den Fächern]]
+
+* Themen MSA
+- Naturbedingte und anthropogen bedingte Gefährdung der Lebensräume.  
+- Eingriffe in den Naturhaushalt
+- Wirksamkeit internationaler Klimaschutzabkommen
+- Ursachen des Klimawandels, der Umweltzerstörung
+- Ursachen internationaler und innerstaatlicher Ungleichheiten
+- Wandel wirtschaftsräumlicher und politischer Strukturen unter dem Einfluss der Globalisierung
+- Möglichkeiten der steuernden Einflussnahme
+- Auswirkung des weltweiten Energiebedarfs
+- Vor- und Nachteile der Nutzung verschiedener Energieträger

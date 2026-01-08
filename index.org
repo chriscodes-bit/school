@@ -5,3 +5,4 @@
 - [[file:math/index.org][Mathe]]
 - [[file:deutsch/index.org][Deutsch]]
 - [[file:history/index.org][Geschichte]]
+- [[file:erdkunde/index.org][Erdkunde]]
