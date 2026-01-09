@@ -81,13 +81,13 @@ Bsp.:
 \begin{array}{rll}
   -4x - 2y & = -20 & \text{(I)} \\
   -4x + 4y & = -8 & \text{(II)} \\ \hline
-  4x + 2y & = 20  & \\
+  4x + 2y & = 20  & \text{(*(-1))}\\
   -4x + 4y & = -8 &  \\ \hline
   6y & = 12 |\div 6 & \\
   y & = 2 & \text{(Lösung)}
 \end{array}
 
-$$-4x+4*2=-8$$
+$$-4x+4\cdot2=-8$$
 $$-4x+8=-8|-8$$
 $$-4x=-16|\div4$$
 $$x=4$$
