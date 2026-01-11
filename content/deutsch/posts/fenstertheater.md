@@ -1,12 +1,11 @@
 ---
 date: '2026-01-11T23:46:00+01:00'
 draft: false
-title: 'Extra: Fenstertheater'
+title: 'Fenstertheater - Extra Notizen'
 ---
 
 Extra Notizen zu dem Text "Fenstertheater" aus dem Unterricht.
 <!--more-->
-
 ## Welche Eigenschaften der Menschen werden mit dieser Geschichte allgemein herausgehoben?
 - Neugierde (ins Haus der anderen schauen) - Gaffen
 - Wenig Privatsphäre

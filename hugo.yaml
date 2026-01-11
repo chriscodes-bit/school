@@ -21,3 +21,12 @@ menu:
       name: erdkunde
       url: /erdkunde/
       weight: 40
+
+params:
+  showPostNavLinks: true
+  showBreadCrumbs: true
+  showReadingTime: true
+  disableSpecial1stPost: true
+
+  cover:
+    linkFullImages: true

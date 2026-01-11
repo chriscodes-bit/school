@@ -6,20 +6,20 @@
     <description>Recent content in Mathe on 4. Semester Notizen</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 23:36:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 00:15:53 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funktionen</title>
-      <link>http://localhost:1313/school/mathe/funktionen/</link>
-      <pubDate>Sun, 11 Jan 2026 23:36:02 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/funktionen/</guid>
+      <link>http://localhost:1313/school/mathe/posts/funktionen/</link>
+      <pubDate>Mon, 12 Jan 2026 00:15:53 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/funktionen/</guid>
       <description></description>
     </item>
     <item>
       <title>Lineare Gleichungssysteme</title>
-      <link>http://localhost:1313/school/mathe/lineare_gleichungssysteme/</link>
+      <link>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</link>
       <pubDate>Sun, 11 Jan 2026 23:07:45 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/lineare_gleichungssysteme/</guid>
+      <guid>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</guid>
       <description>&lt;p&gt;Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen.
 Gesucht sind die Werte dieser Variablen.&lt;/p&gt;</description>
     </item>

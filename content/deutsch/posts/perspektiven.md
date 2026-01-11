@@ -1,5 +1,5 @@
 ---
-date: '2026-01-11T23:43:46+01:00'
+date: '2026-01-12T00:15:03+01:00'
 draft: false
 title: 'Perspektiven'
 ---
