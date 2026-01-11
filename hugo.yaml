@@ -1,0 +1,23 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: 4. Semester Notizen
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: math
+      name: mathe
+      url: /mathe/
+      weight: 10
+    - identifier: deutsch
+      name: deutsch
+      url: /deutsch/
+      weight: 20
+    - identifier: geschichte
+      name: geschichte
+      url: /geschichte/
+      weight: 30
+    - identifier: erdkunde
+      name: erdkunde
+      url: /erdkunde/
+      weight: 40
