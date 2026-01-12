@@ -2,10 +2,8 @@
 date: '2026-01-12T00:15:03+01:00'
 draft: false
 title: 'Perspektiven'
+summary: 'Eine Erzählperspektive ist die Sicht des Erzählers, es werden 3 weitere beschrieben.'
 ---
-
-Eine Erzählperspektive ist die Sicht des Erzählers, hier werden 3 weitere beschrieben.
-<!--more-->
 ## Auktoriale Erzählperspektive
 Der Erzähler ist allwissen(das heißt er kennt die Gedanken und Gefühle aller Handelnden!)
 
