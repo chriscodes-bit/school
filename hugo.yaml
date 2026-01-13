@@ -3,6 +3,8 @@ languageCode: en-us
 title: 4. Semester Notizen
 theme: ["PaperMod"]
 
+ignoreLogs: ['warning-goldmark-raw-html']
+
 menu:
   main:
     - identifier: math
