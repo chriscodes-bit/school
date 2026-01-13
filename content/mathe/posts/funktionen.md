@@ -14,7 +14,7 @@ ShowToc: true
 - Der Verlauf des Graphen wird durch Punkte bestimmt
 - Die Punkte bestehen aus Koordinaten der x- und y-Koordinate    
 
-{{< figure src="/images/points.svg" alt="Plot" align="center" caption="**Punkt A(2/1)** und **Punkt B(-2/-1)**">}}
+{{< figure src="/school/images/points.svg" alt="Plot" align="center" caption="**Punkt A(2/1)** und **Punkt B(-2/-1)**">}}
 
 Der erste Wert innerhalb der Klammer, wenn wir einen Punkt bestimmen, ist $x$, der zweite Wert $y$.
 
@@ -130,7 +130,7 @@ Nun setzen wir $x$ in **eine** der beiden Funktionen ein, dabei ist egal welche,
 Der Schnittpunkt der beiden Funktionen ist also bei (1/5)</p>
             
 
-{{< figure src="/images/schnittpunkt.svg" alt="Schnittpunkt" align="center">}}
+{{< figure src="/school/images/schnittpunkt.svg" alt="Schnittpunkt" align="center">}}
 
 ### Bonus
 Um die Steigung $m$ zu berechnen, können wir auch, wenn wir die Koordinaten von 2 Punkten haben, eine weitere Formel verwenden
@@ -147,4 +147,4 @@ $$
 **Punkt A(3/2) und Punkt B(-5/-2)**
 $$m = \frac{2 - (-2)}{3 - (-5)} = 0.5$$
 
-{{< figure src="/images/two_points.svg" alt="Two Points" align="center">}}
+{{< figure src="/school/images/two_points.svg" alt="Two Points" align="center">}}
