@@ -2,31 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mathe on 4. Semester Notizen</title>
-    <link>http://localhost:1313/mathe/</link>
+    <link>http://localhost:1313/school/mathe/</link>
     <description>Recent content in Mathe on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jan 2026 16:41:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 09:39:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Übungsaufgaben aus dem Unterricht</title>
+      <link>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</link>
+      <pubDate>Wed, 14 Jan 2026 09:39:49 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</guid>
+      <description>Ausklammern</description>
+    </item>
+    <item>
+      <title>Ausklammern / Ausmultiplizieren</title>
+      <link>http://localhost:1313/school/mathe/posts/ausklammern/</link>
+      <pubDate>Wed, 14 Jan 2026 09:04:50 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/ausklammern/</guid>
+      <description>Distributivgesetz</description>
+    </item>
     <item>
       <title>Übungen: Lineare Gleichungssysteme (Textaufgaben)</title>
-      <link>http://localhost:1313/mathe/posts/exercise_lineare_textaufgaben/</link>
+      <link>http://localhost:1313/school/mathe/posts/exercise_lineare_textaufgaben/</link>
       <pubDate>Tue, 13 Jan 2026 16:41:38 +0100</pubDate>
-      <guid>http://localhost:1313/mathe/posts/exercise_lineare_textaufgaben/</guid>
+      <guid>http://localhost:1313/school/mathe/posts/exercise_lineare_textaufgaben/</guid>
       <description>Übungsaufgaben aus dem Unterricht</description>
     </item>
     <item>
       <title>Funktionen</title>
-      <link>http://localhost:1313/mathe/posts/funktionen/</link>
+      <link>http://localhost:1313/school/mathe/posts/funktionen/</link>
       <pubDate>Mon, 12 Jan 2026 00:15:53 +0100</pubDate>
-      <guid>http://localhost:1313/mathe/posts/funktionen/</guid>
+      <guid>http://localhost:1313/school/mathe/posts/funktionen/</guid>
       <description>Erklärungen zu Funktionen</description>
     </item>
     <item>
       <title>Lineare Gleichungssysteme</title>
-      <link>http://localhost:1313/mathe/posts/lineare_gleichungssysteme/</link>
+      <link>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</link>
       <pubDate>Sun, 11 Jan 2026 23:07:45 +0100</pubDate>
-      <guid>http://localhost:1313/mathe/posts/lineare_gleichungssysteme/</guid>
+      <guid>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</guid>
       <description>Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen. Gesucht sind die Werte dieser Variablen.</description>
     </item>
   </channel>
