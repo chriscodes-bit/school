@@ -10,19 +10,19 @@ menu:
     - identifier: math
       name: mathe
       url: /mathe/
-      weight: 10
+      weight: 5
     - identifier: deutsch
       name: deutsch
       url: /deutsch/
-      weight: 20
+      weight: 10
     - identifier: geschichte
       name: geschichte
       url: /geschichte/
-      weight: 30
+      weight: 15
     - identifier: erdkunde
       name: erdkunde
       url: /erdkunde/
-      weight: 40
+      weight: 20
 
 params:
   showPostNavLinks: true
