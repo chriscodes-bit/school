@@ -6,8 +6,23 @@
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 12:37:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:24:56 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geopolitik</title>
+      <link>http://localhost:1313/school/erdkunde/posts/geopolitik/</link>
+      <pubDate>Thu, 15 Jan 2026 12:24:56 +0100</pubDate>
+      <guid>http://localhost:1313/school/erdkunde/posts/geopolitik/</guid>
+      <description>&lt;h3 id=&#34;bodenschätze&#34;&gt;Bodenschätze&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Erdöl&lt;/li&gt;
+&lt;li&gt;Gold&lt;/li&gt;
+&lt;li&gt;seltene Erden&lt;/li&gt;
+&lt;li&gt;Uran&lt;/li&gt;
+&lt;li&gt;Gas&lt;/li&gt;
+&lt;li&gt;Metall&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Rhetorische Figuren</title>
       <link>http://localhost:1313/school/deutsch/posts/rhetorische_figuren/</link>
@@ -16,11 +31,11 @@
       <description>Rhetorische Figuren in Texten sind Stil und Hilfsmittel die der Interpretation dienen.</description>
     </item>
     <item>
-      <title>Übungsaufgaben aus dem Unterricht</title>
+      <title>Übungen: Ausklammern</title>
       <link>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</link>
       <pubDate>Wed, 14 Jan 2026 09:39:49 +0100</pubDate>
       <guid>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</guid>
-      <description>Ausklammern</description>
+      <description>Ausklammern von Termen</description>
     </item>
     <item>
       <title>Ausklammern / Ausmultiplizieren</title>

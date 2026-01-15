@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/school/erdkunde/posts/geopolitik/</loc>
+    <lastmod>2026-01-15T12:24:56+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/deutsch/posts/rhetorische_figuren/</loc>
+    <lastmod>2026-01-14T12:37:56+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</loc>
+    <lastmod>2026-01-14T09:39:49+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/school/mathe/posts/ausklammern/</loc>
     <lastmod>2026-01-14T09:04:50+01:00</lastmod>
   </url><url>

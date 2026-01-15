@@ -1,8 +1,8 @@
 ---
 date: '2026-01-14T09:39:49+01:00'
 draft: false
-title: 'Übungsaufgaben aus dem Unterricht'
-summary: 'Ausklammern'
+title: 'Übungen: Ausklammern'
+summary: 'Ausklammern von Termen'
 ShowToc: true
 ---
 ### Aufgabe a)
