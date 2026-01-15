@@ -3,7 +3,7 @@ date: '2026-01-15T12:24:56+01:00'
 draft: false
 title: 'Geopolitik'
 ShowToc: true
-summar: 'Geopolitische Themen'
+summary: 'Geopolitische Themen'
 ---
 
 ### Bodenschätze
