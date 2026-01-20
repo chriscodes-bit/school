@@ -32,10 +32,11 @@ ShowToc: true
 
 ### Erarbeiten Sie, wozu das Flugblatt auffordert und begründen Sie, warum es sich um eine Widerstandsgruppe handelt.
 Wollten die Menschen über das System aufklären, deckten versteckte Wahrheiten auf und gingen gezielt gegen die Regierung vor.
+
 Fordern dazu auf, achtsam zu sein und sich gegen die Ideologie zu wehren.
 
-Flugblatt: 28.01.1943:
+**Flugblatt: 28.01.1943**
 
-Inhalt: Fordert die Deutschena auf, Hitlers Krieg als verloren zu erkennen, da die Amerikaner ihnen weit überlegen sind, sich nicht länger täuschen zu lassen und die Widerstandsbewegung aktiv zu unterstützen.
+Inhalt: Fordert die Deutschen auf, Hitlers Krieg als verloren zu erkennen, da die Amerikaner ihnen weit überlegen sind, sich nicht länger täuschen zu lassen und die Widerstandsbewegung aktiv zu unterstützen.
 
 Aufforderung: Unterstützung des Widerstands, Verbreitung der Flugblätter und Durchschauen des Systems/der Propaganda.
