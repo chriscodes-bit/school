@@ -3,6 +3,7 @@ date: '2026-01-20T10:37:41+01:00'
 draft: false
 title: 'Binomische Formeln'
 summary: 'Die Merkmale der verschiedenen binomischen Formeln'
+ShowToc: true
 ---
 
 # 1. Binomische Formel

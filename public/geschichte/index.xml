@@ -6,7 +6,21 @@
     <description>Recent content in Geschichte on 4. Semester Notizen</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:40:30 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/geschichte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Widerstand gegen den NS</title>
+      <link>http://localhost:1313/school/geschichte/posts/widerstand_ns/</link>
+      <pubDate>Tue, 20 Jan 2026 12:40:30 +0100</pubDate>
+      <guid>http://localhost:1313/school/geschichte/posts/widerstand_ns/</guid>
+      <description>Nicht alle machten mit</description>
+    </item>
+    <item>
+      <title>Gestapo Szenario</title>
+      <link>http://localhost:1313/school/geschichte/posts/gestapo_szenario/</link>
+      <pubDate>Tue, 20 Jan 2026 12:29:25 +0100</pubDate>
+      <guid>http://localhost:1313/school/geschichte/posts/gestapo_szenario/</guid>
+      <description>Du bist 17, dein Freund wird von der Gestapo verhört. Du weißt, dass er eine verbotene Schrift gelesen hat. Ein Lehrer fragt dich aus.</description>
+    </item>
   </channel>
 </rss>
