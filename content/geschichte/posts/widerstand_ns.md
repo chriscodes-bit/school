@@ -35,5 +35,7 @@ Wollten die Menschen über das System aufklären, deckten versteckte Wahrheiten 
 Fordern dazu auf, achtsam zu sein und sich gegen die Ideologie zu wehren.
 
 Flugblatt: 28.01.1943:
+
 Inhalt: Fordert die Deutschena auf, Hitlers Krieg als verloren zu erkennen, da die Amerikaner ihnen weit überlegen sind, sich nicht länger täuschen zu lassen und die Widerstandsbewegung aktiv zu unterstützen.
+
 Aufforderung: Unterstützung des Widerstands, Verbreitung der Flugblätter und Durchschauen des Systems/der Propaganda.
