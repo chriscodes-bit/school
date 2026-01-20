@@ -7,22 +7,31 @@ ignoreLogs: ['warning-goldmark-raw-html']
 
 menu:
   main:
+    - identifier: angelino
+      name: angelino
+      url: /angelino/
+      weight: 5
     - identifier: math
       name: mathe
       url: /mathe/
-      weight: 5
+      weight: 10
     - identifier: deutsch
       name: deutsch
       url: /deutsch/
-      weight: 10
+      weight: 15
     - identifier: geschichte
       name: geschichte
       url: /geschichte/
-      weight: 15
+      weight: 20
     - identifier: erdkunde
       name: erdkunde
       url: /erdkunde/
-      weight: 20
+      weight: 25
+    - identifier: biologie
+      name: biologie
+      url: /biologie/
+      weight: 30
+    
 
 params:
   showPostNavLinks: true

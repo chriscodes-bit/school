@@ -4,10 +4,38 @@
     <title>Startseite on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jan 2026 12:24:56 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:39:06 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angelinos Namenskreationen</title>
+      <link>http://localhost:1313/school/angelino/posts/angelino_names/</link>
+      <pubDate>Tue, 20 Jan 2026 11:39:06 +0100</pubDate>
+      <guid>http://localhost:1313/school/angelino/posts/angelino_names/</guid>
+      <description>Namerino Angelino</description>
+    </item>
+    <item>
+      <title>Übungen: Binomische Formeln (Textaufgaben)</title>
+      <link>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</link>
+      <pubDate>Tue, 20 Jan 2026 11:17:17 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</guid>
+      <description>Übungsaufgaben aus dem Unterricht</description>
+    </item>
+    <item>
+      <title>Binomische Formeln</title>
+      <link>http://localhost:1313/school/mathe/posts/binomische_formel/</link>
+      <pubDate>Tue, 20 Jan 2026 10:37:41 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/binomische_formel/</guid>
+      <description>Die Merkmale der verschiedenen binomischen Formeln</description>
+    </item>
+    <item>
+      <title>Eizellbefruchtung</title>
+      <link>http://localhost:1313/school/biologie/posts/befruchtung/</link>
+      <pubDate>Mon, 19 Jan 2026 10:48:53 +0100</pubDate>
+      <guid>http://localhost:1313/school/biologie/posts/befruchtung/</guid>
+      <description>Mechaniken der verschiendene beteiligten Zellen(Eizelle, Spermien)</description>
+    </item>
     <item>
       <title>Geopolitik</title>
       <link>http://localhost:1313/school/erdkunde/posts/geopolitik/</link>

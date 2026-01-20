@@ -4,10 +4,24 @@
     <title>Mathe on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/mathe/</link>
     <description>Recent content in Mathe on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 09:39:49 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:17:17 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Übungen: Binomische Formeln (Textaufgaben)</title>
+      <link>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</link>
+      <pubDate>Tue, 20 Jan 2026 11:17:17 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</guid>
+      <description>Übungsaufgaben aus dem Unterricht</description>
+    </item>
+    <item>
+      <title>Binomische Formeln</title>
+      <link>http://localhost:1313/school/mathe/posts/binomische_formel/</link>
+      <pubDate>Tue, 20 Jan 2026 10:37:41 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/binomische_formel/</guid>
+      <description>Die Merkmale der verschiedenen binomischen Formeln</description>
+    </item>
     <item>
       <title>Übungen: Ausklammern</title>
       <link>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</link>

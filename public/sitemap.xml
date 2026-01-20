@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/school/angelino/posts/angelino_names/</loc>
+    <lastmod>2026-01-20T11:39:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/angelino/</loc>
+    <lastmod>2026-01-20T11:38:48+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</loc>
+    <lastmod>2026-01-20T11:17:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/mathe/posts/binomische_formel/</loc>
+    <lastmod>2026-01-20T10:37:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/biologie/</loc>
+    <lastmod>2026-01-19T11:19:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/biologie/posts/befruchtung/</loc>
+    <lastmod>2026-01-19T10:48:53+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/school/erdkunde/posts/geopolitik/</loc>
     <lastmod>2026-01-15T12:24:56+01:00</lastmod>
   </url><url>
