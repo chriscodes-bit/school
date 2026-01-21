@@ -5,7 +5,7 @@ title: 'Übungen: Binomische Formeln (Textaufgaben)'
 summary: 'Übungsaufgaben aus dem Unterricht'
 ---
 
-## Aufgabe 1 (Löse die Klammern nach der 1. Binomischen Formel auf und vereinfache, wenn möglich!):
+### Aufgabe 1 (Löse die Klammern nach der 1. Binomischen Formel auf und vereinfache, wenn möglich!):
 **a) (r+s)^2**
 
 $r^2+s^2+2rs$
@@ -42,8 +42,9 @@ $81a^2+36ab+4b^2$
 
 $64m^2+80mn+25n^2$
 
-## Aufgabe 2 (Löse die Klammern nach der 2. Binomischen Formel auf und vereinfache, wenn möglich!):
+### Aufgabe 2 (Löse die Klammern nach der 2. Binomischen Formel auf und vereinfache, wenn möglich!):
 
 **a) (x-y)^2**
 
+$$
 $$
