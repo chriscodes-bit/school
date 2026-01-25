@@ -45,6 +45,3 @@ $64m^2+80mn+25n^2$
 ### Aufgabe 2 (Löse die Klammern nach der 2. Binomischen Formel auf und vereinfache, wenn möglich!):
 
 **a) (x-y)^2**
-
-$$
-$$
