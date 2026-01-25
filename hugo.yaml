@@ -22,15 +22,15 @@ menu:
     - identifier: geschichte
       name: geschichte
       url: /geschichte/
-      weight: 25
+      weight: 15
     - identifier: erdkunde
       name: erdkunde
       url: /erdkunde/
-      weight: 30
+      weight: 20
     - identifier: biologie
       name: biologie
       url: /biologie/
-      weight: 35
+      weight: 25
     
 
 params:
