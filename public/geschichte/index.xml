@@ -4,10 +4,17 @@
     <title>Geschichte on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/geschichte/</link>
     <description>Recent content in Geschichte on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:40:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:37:27 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/geschichte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swing Kids: Jazz im Nazi-Reich</title>
+      <link>http://localhost:1313/school/geschichte/posts/musik_ns_zeit/</link>
+      <pubDate>Mon, 26 Jan 2026 12:37:27 +0100</pubDate>
+      <guid>http://localhost:1313/school/geschichte/posts/musik_ns_zeit/</guid>
+      <description>Musik zur NS-Zeit</description>
+    </item>
     <item>
       <title>Widerstand gegen den NS</title>
       <link>http://localhost:1313/school/geschichte/posts/widerstand_ns/</link>

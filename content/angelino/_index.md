@@ -26,3 +26,5 @@ title: 'Brainrot Namenskreationen von Angelino'
 | Opferino | Stress |
 | Lieberino | Liebe |
 | Wiederkommerino | Als er in die Klasse wieder zurück kam |
+| Schneeschaufelino | Komisches Geräusch von draußen |
+| Hitlerino | Geschichte |

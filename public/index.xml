@@ -4,10 +4,17 @@
     <title>Startseite on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 12:40:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:37:27 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swing Kids: Jazz im Nazi-Reich</title>
+      <link>http://localhost:1313/school/geschichte/posts/musik_ns_zeit/</link>
+      <pubDate>Mon, 26 Jan 2026 12:37:27 +0100</pubDate>
+      <guid>http://localhost:1313/school/geschichte/posts/musik_ns_zeit/</guid>
+      <description>Musik zur NS-Zeit</description>
+    </item>
     <item>
       <title>&#34;Hauptsache weit&#34; bildhafte Figuren finden und erschließen</title>
       <link>http://localhost:1313/school/deutsch/posts/hauptsache_weit_kurzgeschichte/</link>
