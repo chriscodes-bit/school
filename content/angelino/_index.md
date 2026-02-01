@@ -7,7 +7,7 @@ title: 'Brainrot Namenskreationen von Angelino'
 | Namen | Beschreibung |
 | --- | --- |
 | Bananino Angelino | Brainrot |
-| Raucherino | Pausenhof | 
+| Raucherino | Pausenhof |
 | Matherino | Mathe |
 | Geschichtino | Geschichte |
 | Kommunistino | Geschichte |
