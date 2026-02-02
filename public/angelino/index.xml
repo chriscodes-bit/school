@@ -6,7 +6,14 @@
     <description>Recent content in Brainrot Namenskreationen von Angelino on 4. Semester Notizen</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 11:47:13 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/angelino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lernmaterial</title>
+      <link>http://localhost:1313/school/angelino/posts/lernmaterial/</link>
+      <pubDate>Mon, 02 Feb 2026 11:47:13 +0100</pubDate>
+      <guid>http://localhost:1313/school/angelino/posts/lernmaterial/</guid>
+      <description>LERN DEN SCHEISS</description>
+    </item>
   </channel>
 </rss>
