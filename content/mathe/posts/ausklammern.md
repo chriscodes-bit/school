@@ -5,14 +5,17 @@ title: 'Ausklammern / Ausmultiplizieren'
 summary: 'Distributivgesetz'
 ---
 
-Beim Ausklammern wird eine Zahl oder Variable, welche in beiden oder mehreren Summanden eines Terms vorkommt,
+Beim Ausklammern wird eine Zahl oder Variable,
+welche in beiden oder mehreren Summanden eines Terms vorkommt,
 mit einem Mal vor die Klammer geschrieben.
 
-In die Klammer kommen dann die Summanden ohne diese Zahl. Ausklammern ist die umgekehrte Richtung des Ausmultiplizierens.
+In die Klammer kommen dann die Summanden ohne diese Zahl.
+Ausklammern ist die umgekehrte Richtung des Ausmultiplizierens.
 
 Ausklammern heißt, dass eine Klammer gesetzt wird.
 
-### Ausklammern
+## Ausklammern
+
 **Beispiel:**
 $$5x+10y$$
 $5x$ ist ein Summand, $10y$ ist ein Summand.
@@ -24,8 +27,11 @@ $$
 5x(1+2y)
 $$
 
-### Ausmultiplizieren
-Das Ausmultiplizieren ist die umkehrung des Ausklammerns. Wird eine Zahl mit einer Klammer multipliziert werden die Summanden in der Klammer mit der Zahl vor der Klammer multipliziert.
+## Ausmultiplizieren
+
+Das Ausmultiplizieren ist die umkehrung des Ausklammerns.
+Wird eine Zahl mit einer Klammer multipliziert werden die Summanden
+in der Klammer mit der Zahl vor der Klammer multipliziert.
 Die Klammer verschwindet, wird also aufgelöst.
 
 **Beispiel:**
@@ -34,7 +40,8 @@ $$
 2x+6
 $$
 
-Werden zwei Terme mit Klammern ausmultipliziert, wird jeder Summand der ersten Klammer mit jedem Summand der zweiten Klammer multipliziert.
+Werden zwei Terme mit Klammern ausmultipliziert, wird jeder
+Summand der ersten Klammer mit jedem Summand der zweiten Klammer multipliziert.
 
 Nächstes Beispiel:
 $$

@@ -5,7 +5,8 @@ title: 'Embryonalentwicklung'
 summary: 'Tabelle und Notizen aus dem Film'
 ---
 
-# Tabellarischer Verlauf der Embryonalentwicklung
+## Tabellarischer Verlauf der Embryonalentwicklung
+
 | Zeit nach der Befruchtung (Tage/Wochen) | Entwicklung |
 | --- | --- |
 | 1. Tag | Befruchtung -> Zygote -> Zellteilungen auf dem Weg zur Gebärmutter |
@@ -22,24 +23,27 @@ summary: 'Tabelle und Notizen aus dem Film'
 $$\downarrow$$
 **Entwicklung und Wachsen bis zum Ende der Schwangerschaft.**
 
-Gesamtdauer: 
+Gesamtdauer:
 **37 Wochen - Embryo -> Fetus -> Baby**
 
 Signalmoleküle bestimmen die verschiedenen Funktionen der Zelle.
 
-# Chromosome
+## Chromosome
+
 Hierüber wird das spätere Geschlecht bestimmt.
 
-Männliche und Weibliche Embryonen entwickeln sich in den ersten Wochen gleich(Brustwarzen, etc.), erst ab der 8. Woche bilden sich die spezifischen Geschlechtsmerkmale aus.
+Männliche und Weibliche Embryonen entwickeln sich in den ersten Wochen gleich
+(Brustwarzen, etc.), erst ab der 8. Woche bilden sich die spezifischen
+Geschlechtsmerkmale aus.
 
-Die Entwicklung lässt sich nicht Rückgängig machen, weshalb auch Männer Brustwarzen besitzen.
+Die Entwicklung lässt sich nicht Rückgängig machen, weshalb auch Männer
+Brustwarzen besitzen.
 
 Chromosome unterscheiden sich zwischen $X$- und $Y$-Chromosome
 
-| | Mutter | Vater(über das Spermium) |
+| Gesamt | Mutter | Vater(über das Spermium) |
 | --- | --- | --- |
-| | 23 | 23 |
-| Gesamt | 46 |
+| 46 | 23 | 23 |
 
 X+X = Mädchen
 
