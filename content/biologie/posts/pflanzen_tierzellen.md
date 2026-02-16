@@ -7,18 +7,20 @@ summary: 'Aufgaben der einzelnen Zellbestandteile'
 
 | Zellbestandteil | Aufgabe |
 | --- | --- |
-| _Zellwand_ | Sie verleiht der Zelle stabilität |
+| _Zellwand_ 🌱 | Sie verleiht der Zelle stabilität |
 | Zellmembran | Umschließt und schützt das Zellplasma |
 | Zellplasma | Stoffwechselprozesse, Neben Eiweißen werden hier auch Zucker und Farbstoffe hergestellt. |
-| _Vakuole (Zellsaftraum)_ | Einige der Substanzen die vom Zellplasma hergestellt werden, werden in den Vakuolen gelagert. |
-| _Chloroplasten_ | Fotosynthese |
-| _Amyloplasten_ | Speichern Stärke |
-| _Chromoplasten_ | In den Chromoplasten befinden sich Farbstoffe |
+| _Vakuole (Zellsaftraum)_ 🌱 | Einige der Substanzen die vom Zellplasma hergestellt werden, werden in den Vakuolen gelagert. |
+| _Chloroplasten_ 🌱 | Fotosynthese |
+| _Amyloplasten_ 🌱 | Speichern Stärke |
+| _Chromoplasten_ 🌱 | In den Chromoplasten befinden sich Farbstoffe |
 | Zellkern | Der Zellkern steuert alle Lebensvorgänge der Zelle, er enthält das Erbmaterial |
 | Mitochondrie | "Kraftwerk" der Zelle, hier wird Energie für alle Lebens- und Wachstumsprozesse der Zelle gewonnen |
 | Endoplasmatische Reticulum | Hier werden viele wichtige Stoffe produziert und zu anderen Teilen der Zelle transportiert, viele dieser Stoffe werden über den **Golgi-Apparat** aus der Zellwand geschleust. Durch Öffnungen in der Zellwand, **die Tüpfel**, gelangen sie in die Nachbarzelle | 
 
 Chlorplasten, Amyloplasten und Chromoplasten werden zusammengefasst Plastide genannt.
+
+🌱 - Nur in Pflanzenzellen
 
 ## Plastide
 

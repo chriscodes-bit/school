@@ -4,10 +4,71 @@
     <title>Startseite on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 09:03:16 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 08:59:27 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klimawandel</title>
+      <link>http://localhost:1313/school/erdkunde/posts/klimawandel/</link>
+      <pubDate>Thu, 12 Feb 2026 08:59:27 +0100</pubDate>
+      <guid>http://localhost:1313/school/erdkunde/posts/klimawandel/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;$CO_2$&lt;/li&gt;
+&lt;li&gt;Wetter&lt;/li&gt;
+&lt;li&gt;Erderwärmung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sammelbegriffe&#34;&gt;Sammelbegriffe&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Biologie&lt;/th&gt;
+          &lt;th&gt;Erdkunde&lt;/th&gt;
+          &lt;th&gt;Physik&lt;/th&gt;
+          &lt;th&gt;Geschichte&lt;/th&gt;
+          &lt;th&gt;Politik&lt;/th&gt;
+          &lt;th&gt;Jura&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mathematik&lt;/td&gt;
+          &lt;td&gt;Chemie&lt;/td&gt;
+          &lt;td&gt;Sozialkunde&lt;/td&gt;
+          &lt;td&gt;Wirtschaftslehre&lt;/td&gt;
+          &lt;td&gt;Medizin&lt;/td&gt;
+          &lt;td&gt;Arbeitsschutz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Städteplanung&lt;/td&gt;
+          &lt;td&gt;Logistik&lt;/td&gt;
+          &lt;td&gt;Psychologie&lt;/td&gt;
+          &lt;td&gt;Psychologie&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;klima-vs-wetter&#34;&gt;Klima vs. Wetter&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Klima&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Daten werden über einen längeren Zeitraum (30 Jahre) gesammelt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wetter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wetterdaten beziehen sich auf einen kürzeren Zeitraum&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsere Perfekte Welt</title>
+      <link>http://localhost:1313/school/deutsch/posts/unsere_perfekte_welt/</link>
+      <pubDate>Tue, 10 Feb 2026 12:30:43 +0100</pubDate>
+      <guid>http://localhost:1313/school/deutsch/posts/unsere_perfekte_welt/</guid>
+      <description>Utopie / Dystopie</description>
+    </item>
+    <item>
+      <title>Reinquadratische Gleichungen</title>
+      <link>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</link>
+      <pubDate>Tue, 10 Feb 2026 11:13:12 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</guid>
+      <description>Reinquadratische Gleichungen der Form $ax^2+c=0$</description>
+    </item>
     <item>
       <title>Pflanzen und Tierzellen</title>
       <link>http://localhost:1313/school/biologie/posts/pflanzen_tierzellen/</link>

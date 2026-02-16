@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/school/erdkunde/posts/klimawandel/</loc>
+    <lastmod>2026-02-12T08:59:27+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/deutsch/posts/unsere_perfekte_welt/</loc>
+    <lastmod>2026-02-10T12:30:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</loc>
+    <lastmod>2026-02-10T11:13:12+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/school/biologie/posts/pflanzen_tierzellen/</loc>
     <lastmod>2026-02-10T09:03:16+01:00</lastmod>
   </url><url>
