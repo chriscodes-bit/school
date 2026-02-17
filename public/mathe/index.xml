@@ -6,8 +6,15 @@
     <description>Recent content in Mathe on 4. Semester Notizen</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 11:13:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 15:37:38 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadratische Gleichungen ohne absolutes Glied</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
+      <pubDate>Tue, 17 Feb 2026 15:37:38 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
+      <description>Lösungsschritte für Quadratische Gleichungen ohne absolutes Glied</description>
+    </item>
     <item>
       <title>Reinquadratische Gleichungen</title>
       <link>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</link>
