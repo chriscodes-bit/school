@@ -33,7 +33,7 @@ $$
 x^2+px+q=0
 $$
 
-{{< figure src="/school/images/normalform.jpg" alt="Erklärung" align="center" caption="Allgemeine Form -> Normalform">}}
+{{< figure src="/school/images/normalform.png" alt="Erklärung" align="center" caption="Allgemeine Form -> Normalform">}}
 
 $$
 x^2+4x-\bold{\underline{5}}=0
