@@ -6,8 +6,15 @@
     <description>Recent content in Mathe on 4. Semester Notizen</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 15:37:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 10:55:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formen quadratischer Gleichungen und ihre Lösung</title>
+      <link>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</link>
+      <pubDate>Wed, 18 Feb 2026 10:55:44 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
+      <description>Allgemein und Normalform quadratischer Gleichungen</description>
+    </item>
     <item>
       <title>Quadratische Gleichungen ohne absolutes Glied</title>
       <link>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
