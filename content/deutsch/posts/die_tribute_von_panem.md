@@ -18,14 +18,14 @@ title: "Die Tribute von Panem"
 
 ## Ich-Erzählerin Katniss Everdeen
 
-Aussehen:
-Herkunft ihres Namens und seine Bedeutung:
-Beziehung zu Gale Hawthorne:
-Verhalten gegenüber ihrer Mutter:
-Verhalten gegenüber ihrer Schwester:
-Verhalten in der Öffentlichkeit:
-besondere Fähigkeiten:
-Eigenschaften allgemein:
+- Aussehen:
+- Herkunft ihres Namens und seine Bedeutung:
+- Beziehung zu Gale Hawthorne:
+- Verhalten gegenüber ihrer Mutter:
+- Verhalten gegenüber ihrer Schwester:
+- Verhalten in der Öffentlichkeit:
+- besondere Fähigkeiten:
+- Eigenschaften allgemein:
 
 - kommt aus Distrikt 12
 
