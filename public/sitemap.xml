@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</loc>
+    <lastmod>2026-02-18T10:55:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</loc>
+    <lastmod>2026-02-17T15:37:38+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/school/deutsch/posts/die_tribute_von_panem/</loc>
+    <lastmod>2026-02-17T12:23:51+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/school/biologie/posts/zellkern_und_chromosome/</loc>
     <lastmod>2026-02-17T09:46:38+01:00</lastmod>
   </url><url>

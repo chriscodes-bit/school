@@ -3,6 +3,7 @@ date: "2026-02-18T10:55:44+01:00"
 draft: false
 title: "Formen quadratischer Gleichungen und ihre Lösung"
 summary: "Allgemein und Normalform quadratischer Gleichungen"
+ShowToc: true
 ---
 
 ## Allgemeine Form
@@ -75,4 +76,25 @@ x+3=\pm 4|-3\\\\\\
 \\\
 x_1 = 1\\\
 x_2=-7
+$$
+
+## 2. Beispiel (Anschaulicher)
+
+$$
+\begin{aligned}
+x^2-7x-8 &=0 && | +8\\\
+x^2-7x &=8 && | \text{Ergänzen}\\\
+x^2-7x+\left(\frac{7}{2}\right)^2 &= 8+\left(\frac{7}{2}\right)^2 \\\ 
+\left(x-\frac{7}{2}\right)² &=8+\frac{49}{4} &&|\text{Ganzzahl auflösen} \\\
+\left(x-\frac{7}{2}\right)² &=\frac{81}{4} &&|\sqrt{} \\\
+x-\frac{7}{2} &=\pm\frac{9}{2} &&| +\frac{7}{2} \\\
+\\\
+x_1 &= \frac{16}{2}, x_2 = -\frac{2}{2}\\\
+\end{aligned}
+$$
+$$
+L = \\{\frac{16}{2}; -\frac{2}{2}\\}\\\
+\text{oder}\\\
+L = \\{8;-1\\}\\\
+\text{Beides Richtig}
 $$

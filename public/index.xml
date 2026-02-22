@@ -4,17 +4,77 @@
     <title>Startseite on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 09:46:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 10:55:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formen quadratischer Gleichungen und ihre Lösung</title>
+      <link>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</link>
+      <pubDate>Wed, 18 Feb 2026 10:55:44 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
+      <description>Allgemein und Normalform quadratischer Gleichungen</description>
+    </item>
+    <item>
+      <title>Quadratische Gleichungen ohne absolutes Glied</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
+      <pubDate>Tue, 17 Feb 2026 15:37:38 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
+      <description>Lösungsschritte für Quadratische Gleichungen ohne absolutes Glied</description>
+    </item>
+    <item>
+      <title>Die Tribute von Panem</title>
+      <link>http://localhost:1313/school/deutsch/posts/die_tribute_von_panem/</link>
+      <pubDate>Tue, 17 Feb 2026 12:23:51 +0100</pubDate>
+      <guid>http://localhost:1313/school/deutsch/posts/die_tribute_von_panem/</guid>
+      <description>&lt;h2 id=&#34;die-entstehung-von-panem-und-der-hungerspiele&#34;&gt;Die Entstehung von Panem und der Hungerspiele&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Panem: Aus den Trümmern von Nordamerika entstanden, nach mehreren Katastrophen&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Katastrophen infolges des Klimawandels&lt;/th&gt;
+          &lt;th&gt;Folgen&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dürrezeiten&lt;/td&gt;
+          &lt;td&gt;Ressourcenknappheit, wenig landwirtschaftliche Erträge/Fläche, Tod durch Verhungern&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Krieg&lt;/td&gt;
+          &lt;td&gt;Zerstörung von Lebensraum (Städte, Häuser, Supermärkte..), Tod, d.h. weniger Arbeitskräfte, politische Maßnahmen, um weitere Kriege zu verhinden&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Feuersbrünste&lt;/td&gt;
+          &lt;td&gt;Zerstörung von Ernten und Häusern&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stürme&lt;/td&gt;
+          &lt;td&gt;Migration, Hunger&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Anstieg des Meeresspiegels&lt;/td&gt;
+          &lt;td&gt;Kampf um Wohnraum und Nahrung&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ich-erzählerin-katniss-everdeen&#34;&gt;Ich-Erzählerin Katniss Everdeen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aussehen:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Herkunft ihres Namens und seine Bedeutung:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Zellkern und Chromosomen</title>
       <link>http://localhost:1313/school/biologie/posts/zellkern_und_chromosome/</link>
       <pubDate>Tue, 17 Feb 2026 09:46:38 +0100</pubDate>
       <guid>http://localhost:1313/school/biologie/posts/zellkern_und_chromosome/</guid>
-      <description>&lt;p&gt;Jede Zelle beinhaltet einen Zellkern. Im Zellkern befinden sich Chromosomen
-[chromos: Farbe, soma: Körper]. Diese beinhalten die Erbinformationen, welche die &amp;ldquo;Arbeit&amp;rdquo; also Stoffwechselprozesse einer Zelle steuern.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Jede Zelle beinhaltet einen Zellkern. Im Zellkern befinden sich Chromosomen&lt;/p&gt;
+&lt;p&gt;Diese beinhalten die Erbinformationen, welche die &amp;ldquo;Arbeit&amp;rdquo; also Stoffwechselprozesse einer Zelle steuern.&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;chromos&lt;/strong&gt;: Farbe, &lt;strong&gt;soma&lt;/strong&gt;: Körper].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Klimawandel</title>
