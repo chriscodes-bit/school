@@ -41,3 +41,5 @@ params:
 
   cover:
     linkFullImages: true
+
+  author: "Chris"
