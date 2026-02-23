@@ -16,18 +16,36 @@ title: "Die Tribute von Panem"
 | Stürme                                 | Migration, Hunger                                                                                                                                |
 | Anstieg des Meeresspiegels             | Kampf um Wohnraum und Nahrung                                                                                                                    |
 
-## Ich-Erzählerin Katniss Everdeen
+## Ich-Erzählerin Katniss Everdeen (1. Kapitel)
 
 - Aussehen:
-- Herkunft ihres Namens und seine Bedeutung:
+  - lange braune Haare
+  - sportlich
+  - schlank
+  - Herkunft ihres Namens und seine Bedeutung: Sumpf-Pflanze(Pfeilkraut)
+  - verbunden mit dem Schützen
+  - Überlebenskünstlerin
 - Beziehung zu Gale Hawthorne:
+  - tiefe Freundschaft
+  - eigentlich Liebe, sie aber aufgrund der Lebensumstände nicht ausleben
+  - brennen nicht gemeinsam durch, weil sie beide verantwortungsbewusst gegenüber ihrer Familie sind
 - Verhalten gegenüber ihrer Mutter:
+  - abweisend,
+  - unterdrückte Wut, da sie ihren Aufgaben als Mutter aufgrund von Depression nicht nachkommt
 - Verhalten gegenüber ihrer Schwester:
+  - möchte Vorbild sein
+  - liebevoll
 - Verhalten in der Öffentlichkeit:
+  - zurückhaltend
+  - nicht gesprächig
 - besondere Fähigkeiten:
+  - Bogenschießen (Jagen)
 - Eigenschaften allgemein:
-
-- kommt aus Distrikt 12
+  - mutig
+  - geschickt
+  - hilfsbereit
+  - fürsorglich
+  - Opferbereitschaft für die Familie
 
 ## 1. Kapitel: Was erfahren wir über die Welt und ihre Bewohner?
 
@@ -42,3 +60,12 @@ title: "Die Tribute von Panem"
 - Es herrschen strenge Regeln, aber die Friedenswärter (Polizei) können sie ohne Strafen brechen, wenn etwas für sie dabei rausspringt
 - Die meisten Menschen in Distrikt 12 haben schwarze Haare und olivfarbene Haut, Prim und ihre Mutter stechen mit blonden Haaren hervor
 - Katniss Mutter war Apothekerin und damit als eine der wenigen heilkundig, allerdings lässt sie sich seit dem Tod ihres Mannes hängen
+
+## Konflikte/Probleme
+
+- Arm vs. Reich
+- Unterdrückung
+- Folgen des Klimawandels -> Hungersnot, Ressourcenknappheit, wenig Nutzfläche
+- Hungerspiele als Strafe für historische Rebellion gegen das System
+- Sensationslust des Kapitols soll gestillt werden durch die Spiele
+- Kritik am System -> Panem
