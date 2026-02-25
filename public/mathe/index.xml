@@ -6,8 +6,33 @@
     <description>Recent content in Mathe on 4. Semester Notizen</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 10:55:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 10:49:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadratische Funktionen</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</link>
+      <pubDate>Wed, 25 Feb 2026 10:49:00 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</guid>
+      <description>&lt;p&gt;Quadratische Gleichungen haben eine Funktionsgleichung der Form&lt;/p&gt;
+&lt;p&gt;$$y = ax^2+bx+c$$
+$$f(x) = ax^2+bx+c$$&lt;/p&gt;
+&lt;p&gt;Den Graphen einer quadratischen Funktion nennt man Parabel&lt;/p&gt;
+&lt;p&gt;nach oben geöffnet $= a &amp;gt; 0$&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/school/images/simple_quadratic_parabola.png#center&#34;
+         alt=&#34;Plot&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;strong&gt;Blau = $x²$ | Rot = $-x²$&lt;/strong&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;nach unten geöffnet $= a &amp;lt; 0$&lt;/p&gt;
+&lt;p&gt;$$
+ax^2 - \text{quadratisches Glied}\\
+bx - \text{lineares Glied}\\
+c - \text{absolutes Glied}\\
+$$&lt;/p&gt;
+&lt;p&gt;An der Stelle x, an der eine Funktion(also $y$ oder $f(x)$) den Wert 0 annimmt, heißt Nullstelle der Funktion&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Formen quadratischer Gleichungen und ihre Lösung</title>
       <link>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</link>

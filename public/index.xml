@@ -6,8 +6,33 @@
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 11:19:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 10:49:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadratische Funktionen</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</link>
+      <pubDate>Wed, 25 Feb 2026 10:49:00 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</guid>
+      <description>&lt;p&gt;Quadratische Gleichungen haben eine Funktionsgleichung der Form&lt;/p&gt;
+&lt;p&gt;$$y = ax^2+bx+c$$
+$$f(x) = ax^2+bx+c$$&lt;/p&gt;
+&lt;p&gt;Den Graphen einer quadratischen Funktion nennt man Parabel&lt;/p&gt;
+&lt;p&gt;nach oben geöffnet $= a &amp;gt; 0$&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/school/images/simple_quadratic_parabola.png#center&#34;
+         alt=&#34;Plot&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;strong&gt;Blau = $x²$ | Rot = $-x²$&lt;/strong&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;nach unten geöffnet $= a &amp;lt; 0$&lt;/p&gt;
+&lt;p&gt;$$
+ax^2 - \text{quadratisches Glied}\\
+bx - \text{lineares Glied}\\
+c - \text{absolutes Glied}\\
+$$&lt;/p&gt;
+&lt;p&gt;An der Stelle x, an der eine Funktion(also $y$ oder $f(x)$) den Wert 0 annimmt, heißt Nullstelle der Funktion&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Die NS-Außenpolitik - Der Weg in den Krieg</title>
       <link>http://localhost:1313/school/geschichte/posts/ns_au%C3%9Fenpolitik/</link>
@@ -80,13 +105,83 @@ dass Krieg vorbereitet wird(Betonung der Unabhänigkeit der anderen Staaten in d
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;ich-erzählerin-katniss-everdeen&#34;&gt;Ich-Erzählerin Katniss Everdeen&lt;/h2&gt;
+&lt;h2 id=&#34;ich-erzählerin-katniss-everdeen-1-kapitel&#34;&gt;Ich-Erzählerin Katniss Everdeen (1. Kapitel)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Aussehen:&lt;/p&gt;
+&lt;li&gt;Aussehen:
+&lt;ul&gt;
+&lt;li&gt;lange braune Haare&lt;/li&gt;
+&lt;li&gt;sportlich&lt;/li&gt;
+&lt;li&gt;schlank&lt;/li&gt;
+&lt;li&gt;Herkunft ihres Namens und seine Bedeutung: Sumpf-Pflanze(Pfeilkraut)&lt;/li&gt;
+&lt;li&gt;verbunden mit dem Schützen&lt;/li&gt;
+&lt;li&gt;Überlebenskünstlerin&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Herkunft ihres Namens und seine Bedeutung:&lt;/p&gt;</description>
+&lt;li&gt;Beziehung zu Gale Hawthorne:
+&lt;ul&gt;
+&lt;li&gt;tiefe Freundschaft&lt;/li&gt;
+&lt;li&gt;eigentlich Liebe, sie aber aufgrund der Lebensumstände nicht ausleben&lt;/li&gt;
+&lt;li&gt;brennen nicht gemeinsam durch, weil sie beide verantwortungsbewusst gegenüber ihrer Familie sind&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Verhalten gegenüber ihrer Mutter:
+&lt;ul&gt;
+&lt;li&gt;abweisend,&lt;/li&gt;
+&lt;li&gt;unterdrückte Wut, da sie ihren Aufgaben als Mutter aufgrund von Depression nicht nachkommt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Verhalten gegenüber ihrer Schwester:
+&lt;ul&gt;
+&lt;li&gt;möchte Vorbild sein&lt;/li&gt;
+&lt;li&gt;liebevoll&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Verhalten in der Öffentlichkeit:
+&lt;ul&gt;
+&lt;li&gt;zurückhaltend&lt;/li&gt;
+&lt;li&gt;nicht gesprächig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;besondere Fähigkeiten:
+&lt;ul&gt;
+&lt;li&gt;Bogenschießen (Jagen)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Eigenschaften allgemein:
+&lt;ul&gt;
+&lt;li&gt;mutig&lt;/li&gt;
+&lt;li&gt;geschickt&lt;/li&gt;
+&lt;li&gt;hilfsbereit&lt;/li&gt;
+&lt;li&gt;fürsorglich&lt;/li&gt;
+&lt;li&gt;Opferbereitschaft für die Familie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1-kapitel-was-erfahren-wir-über-die-welt-und-ihre-bewohner&#34;&gt;1. Kapitel: Was erfahren wir über die Welt und ihre Bewohner?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unterteilung in 12 Distrikte und eine Hauptzone, das Kapitol&lt;/li&gt;
+&lt;li&gt;Panem wird vom Kapitol regiert&lt;/li&gt;
+&lt;li&gt;Die Hauptfigur(Katniss Everdeen) lebt in Distrikt 12, dieser ist sehr arm undd ie Menschen leiden dort Hunger&lt;/li&gt;
+&lt;li&gt;In Distrikt 12 leben die Bergarbeiter, die in den Minen dort arbeiten&lt;/li&gt;
+&lt;li&gt;In Distrikt 12 gibt es einen Schwarzmarkt, der das Überleben der Menschen dort sichert&lt;/li&gt;
+&lt;li&gt;Die Distrikte sind durch Stromzäune gesichert und man darf andere Distrikte und Zonen nicht betreten&lt;/li&gt;
+&lt;li&gt;Katniss jagt allerdings in einem Wald außerhalb, um zu überleben&lt;/li&gt;
+&lt;li&gt;Im Kapitol sind die Menschen priviligiert und haben eine sehr andere Art zu leben und zu sprechen&lt;/li&gt;
+&lt;li&gt;Es herrschen strenge Regeln, aber die Friedenswärter (Polizei) können sie ohne Strafen brechen, wenn etwas für sie dabei rausspringt&lt;/li&gt;
+&lt;li&gt;Die meisten Menschen in Distrikt 12 haben schwarze Haare und olivfarbene Haut, Prim und ihre Mutter stechen mit blonden Haaren hervor&lt;/li&gt;
+&lt;li&gt;Katniss Mutter war Apothekerin und damit als eine der wenigen heilkundig, allerdings lässt sie sich seit dem Tod ihres Mannes hängen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;konflikteprobleme&#34;&gt;Konflikte/Probleme&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arm vs. Reich&lt;/li&gt;
+&lt;li&gt;Unterdrückung&lt;/li&gt;
+&lt;li&gt;Folgen des Klimawandels -&amp;gt; Hungersnot, Ressourcenknappheit, wenig Nutzfläche&lt;/li&gt;
+&lt;li&gt;Hungerspiele als Strafe für historische Rebellion gegen das System&lt;/li&gt;
+&lt;li&gt;Sensationslust des Kapitols soll gestillt werden durch die Spiele&lt;/li&gt;
+&lt;li&gt;Kritik am System -&amp;gt; Panem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;stellungnahme&#34;&gt;Stellungnahme&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Einleitung&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zellkern und Chromosomen</title>

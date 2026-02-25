@@ -12,16 +12,15 @@ $$f(x) = ax^2+bx+c$$
 Den Graphen einer quadratischen Funktion nennt man Parabel
 
 nach oben geöffnet $= a > 0$
-TODO: Graphen einfügen
 
 nach unten geöffnet $= a < 0$
 
-TODO: Graphen einfügen
+{{< figure src="/school/images/simple_quadratic_parabola.png" alt="Plot" align="center" caption="**Blau = $x²$ | Rot = $-x²$**">}}
 
 $$
-ax^2 - \text{quadratisches Glied}
-bx - \text{lineares Glied}
-c - \text{absolutes Glied}
+ax^2 - \text{quadratisches Glied}\\\
+bx - \text{lineares Glied}\\\
+c - \text{absolutes Glied}\\\
 $$
 
 An der Stelle x, an der eine Funktion(also $y$ oder $f(x)$) den Wert 0 annimmt, heißt Nullstelle der Funktion
