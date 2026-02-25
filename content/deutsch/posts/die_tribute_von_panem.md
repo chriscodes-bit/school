@@ -69,3 +69,13 @@ title: "Die Tribute von Panem"
 - Hungerspiele als Strafe für historische Rebellion gegen das System
 - Sensationslust des Kapitols soll gestillt werden durch die Spiele
 - Kritik am System -> Panem
+
+## Stellungnahme
+
+**Einleitung**
+- Das Problem / Thema beschreiben
+- Die eigene Meinung dazu formulieren
+**Hauptteil**
+- Mit Argumenten (These-Beleg-Beispiele) seine Meinung untermauern
+**Schluss**
+- Fazit
