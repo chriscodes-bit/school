@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Startseite on 4. Semester Notizen</title>
-    <link>http://localhost:33575/school/</link>
+    <link>http://localhost:43917/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2026 22:02:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:33575/school/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43917/school/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNA Aufbau</title>
-      <link>http://localhost:33575/school/biologie/posts/dna_aufbau/</link>
+      <link>http://localhost:43917/school/biologie/posts/dna_aufbau/</link>
       <pubDate>Mon, 02 Mar 2026 22:02:24 +0100</pubDate>
-      <guid>http://localhost:33575/school/biologie/posts/dna_aufbau/</guid>
+      <guid>http://localhost:43917/school/biologie/posts/dna_aufbau/</guid>
       <description>Aufbau der DNA in ihren einzelnen Bestandteilen</description>
     </item>
     <item>
       <title>Vertreibung Flüchtlinge</title>
-      <link>http://localhost:33575/school/geschichte/posts/vertreibung_fl%C3%BCchtlinge/</link>
+      <link>http://localhost:43917/school/geschichte/posts/vertreibung_fl%C3%BCchtlinge/</link>
       <pubDate>Mon, 02 Mar 2026 17:57:22 +0100</pubDate>
-      <guid>http://localhost:33575/school/geschichte/posts/vertreibung_fl%C3%BCchtlinge/</guid>
+      <guid>http://localhost:43917/school/geschichte/posts/vertreibung_fl%C3%BCchtlinge/</guid>
       <description></description>
     </item>
     <item>
       <title>Quadratische Funktionen</title>
-      <link>http://localhost:33575/school/mathe/posts/quadratische_funktionen/</link>
+      <link>http://localhost:43917/school/mathe/posts/quadratische_funktionen/</link>
       <pubDate>Wed, 25 Feb 2026 10:49:00 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/quadratische_funktionen/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/quadratische_funktionen/</guid>
       <description>&lt;p&gt;Quadratische Gleichungen haben eine Funktionsgleichung der Form&lt;/p&gt;
 &lt;p&gt;$$y = ax^2+bx+c$$
 $$f(x) = ax^2+bx+c$$&lt;/p&gt;
@@ -34,7 +34,7 @@ $$f(x) = ax^2+bx+c$$&lt;/p&gt;
 &lt;p&gt;nach oben geöffnet $= a &amp;gt; 0$&lt;/p&gt;
 &lt;p&gt;nach unten geöffnet $= a &amp;lt; 0$&lt;/p&gt;
 &lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33575/school/images/simple_quadratic_parabola.png#center&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:43917/school/images/simple_quadratic_parabola.png#center&#34;
          alt=&#34;Plot&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;&lt;strong&gt;Blau = $x²$ | Rot = $-x²$&lt;/strong&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -49,9 +49,9 @@ $$&lt;/p&gt;
     </item>
     <item>
       <title>Die NS-Außenpolitik - Der Weg in den Krieg</title>
-      <link>http://localhost:33575/school/geschichte/posts/ns_au%C3%9Fenpolitik/</link>
+      <link>http://localhost:43917/school/geschichte/posts/ns_au%C3%9Fenpolitik/</link>
       <pubDate>Mon, 23 Feb 2026 11:19:15 +0100</pubDate>
-      <guid>http://localhost:33575/school/geschichte/posts/ns_au%C3%9Fenpolitik/</guid>
+      <guid>http://localhost:43917/school/geschichte/posts/ns_au%C3%9Fenpolitik/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ziele der NS-Außenpolitik:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Revision des Versailler Vertrags&lt;/li&gt;
@@ -70,23 +70,23 @@ dass Krieg vorbereitet wird(Betonung der Unabhänigkeit der anderen Staaten in d
     </item>
     <item>
       <title>Formen quadratischer Gleichungen und ihre Lösung</title>
-      <link>http://localhost:33575/school/mathe/posts/formen_quadratischer_gleichungen/</link>
+      <link>http://localhost:43917/school/mathe/posts/formen_quadratischer_gleichungen/</link>
       <pubDate>Wed, 18 Feb 2026 10:55:44 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
       <description>Allgemein und Normalform quadratischer Gleichungen</description>
     </item>
     <item>
       <title>Quadratische Gleichungen ohne absolutes Glied</title>
-      <link>http://localhost:33575/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
+      <link>http://localhost:43917/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
       <pubDate>Tue, 17 Feb 2026 15:37:38 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
       <description>Lösungsschritte für Quadratische Gleichungen ohne absolutes Glied</description>
     </item>
     <item>
       <title>Die Tribute von Panem</title>
-      <link>http://localhost:33575/school/deutsch/posts/die_tribute_von_panem/</link>
+      <link>http://localhost:43917/school/deutsch/posts/die_tribute_von_panem/</link>
       <pubDate>Tue, 17 Feb 2026 12:23:51 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/die_tribute_von_panem/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/die_tribute_von_panem/</guid>
       <description>&lt;h2 id=&#34;die-entstehung-von-panem-und-der-hungerspiele&#34;&gt;Die Entstehung von Panem und der Hungerspiele&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Panem: Aus den Trümmern von Nordamerika entstanden, nach mehreren Katastrophen&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -199,18 +199,16 @@ dass Krieg vorbereitet wird(Betonung der Unabhänigkeit der anderen Staaten in d
     </item>
     <item>
       <title>Zellkern und Chromosomen</title>
-      <link>http://localhost:33575/school/biologie/posts/zellkern_und_chromosome/</link>
+      <link>http://localhost:43917/school/biologie/posts/zellkern_und_chromosome/</link>
       <pubDate>Tue, 17 Feb 2026 09:46:38 +0100</pubDate>
-      <guid>http://localhost:33575/school/biologie/posts/zellkern_und_chromosome/</guid>
-      <description>&lt;p&gt;Jede Zelle beinhaltet einen Zellkern. Im Zellkern befinden sich Chromosomen&lt;/p&gt;
-&lt;p&gt;Diese beinhalten die Erbinformationen, welche die &amp;ldquo;Arbeit&amp;rdquo; also Stoffwechselprozesse einer Zelle steuern.&lt;/p&gt;
-&lt;p&gt;[&lt;strong&gt;chromos&lt;/strong&gt;: Farbe, &lt;strong&gt;soma&lt;/strong&gt;: Körper].&lt;/p&gt;</description>
+      <guid>http://localhost:43917/school/biologie/posts/zellkern_und_chromosome/</guid>
+      <description>Eizelle, Spermium sowie Unterschiede Chromatin und Chromosome</description>
     </item>
     <item>
       <title>Klimawandel</title>
-      <link>http://localhost:33575/school/erdkunde/posts/klimawandel/</link>
+      <link>http://localhost:43917/school/erdkunde/posts/klimawandel/</link>
       <pubDate>Thu, 12 Feb 2026 08:59:27 +0100</pubDate>
-      <guid>http://localhost:33575/school/erdkunde/posts/klimawandel/</guid>
+      <guid>http://localhost:43917/school/erdkunde/posts/klimawandel/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;$CO_2$&lt;/li&gt;
 &lt;li&gt;Wetter&lt;/li&gt;
@@ -255,149 +253,149 @@ dass Krieg vorbereitet wird(Betonung der Unabhänigkeit der anderen Staaten in d
     </item>
     <item>
       <title>Unsere Perfekte Welt</title>
-      <link>http://localhost:33575/school/deutsch/posts/unsere_perfekte_welt/</link>
+      <link>http://localhost:43917/school/deutsch/posts/unsere_perfekte_welt/</link>
       <pubDate>Tue, 10 Feb 2026 12:30:43 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/unsere_perfekte_welt/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/unsere_perfekte_welt/</guid>
       <description>Utopie / Dystopie</description>
     </item>
     <item>
       <title>Reinquadratische Gleichungen</title>
-      <link>http://localhost:33575/school/mathe/posts/reinquadratische_gleichungen/</link>
+      <link>http://localhost:43917/school/mathe/posts/reinquadratische_gleichungen/</link>
       <pubDate>Tue, 10 Feb 2026 11:13:12 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/reinquadratische_gleichungen/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/reinquadratische_gleichungen/</guid>
       <description>Reinquadratische Gleichungen der Form $ax^2+c=0$</description>
     </item>
     <item>
       <title>Pflanzen und Tierzellen</title>
-      <link>http://localhost:33575/school/biologie/posts/pflanzen_tierzellen/</link>
+      <link>http://localhost:43917/school/biologie/posts/pflanzen_tierzellen/</link>
       <pubDate>Tue, 10 Feb 2026 09:03:16 +0100</pubDate>
-      <guid>http://localhost:33575/school/biologie/posts/pflanzen_tierzellen/</guid>
+      <guid>http://localhost:43917/school/biologie/posts/pflanzen_tierzellen/</guid>
       <description>Aufgaben der einzelnen Zellbestandteile</description>
     </item>
     <item>
       <title>Lernmaterial</title>
-      <link>http://localhost:33575/school/angelino/posts/lernmaterial/</link>
+      <link>http://localhost:43917/school/angelino/posts/lernmaterial/</link>
       <pubDate>Mon, 02 Feb 2026 11:47:13 +0100</pubDate>
-      <guid>http://localhost:33575/school/angelino/posts/lernmaterial/</guid>
+      <guid>http://localhost:43917/school/angelino/posts/lernmaterial/</guid>
       <description>LERN DEN SCHEISS</description>
     </item>
     <item>
       <title>Swing Kids: Jazz im Nazi-Reich</title>
-      <link>http://localhost:33575/school/geschichte/posts/musik_ns_zeit/</link>
+      <link>http://localhost:43917/school/geschichte/posts/musik_ns_zeit/</link>
       <pubDate>Mon, 26 Jan 2026 12:37:27 +0100</pubDate>
-      <guid>http://localhost:33575/school/geschichte/posts/musik_ns_zeit/</guid>
+      <guid>http://localhost:43917/school/geschichte/posts/musik_ns_zeit/</guid>
       <description>Musik zur NS-Zeit</description>
     </item>
     <item>
       <title>&#34;Hauptsache weit&#34; bildhafte Figuren finden und erschließen</title>
-      <link>http://localhost:33575/school/deutsch/posts/hauptsache_weit_kurzgeschichte/</link>
+      <link>http://localhost:43917/school/deutsch/posts/hauptsache_weit_kurzgeschichte/</link>
       <pubDate>Wed, 21 Jan 2026 12:40:01 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/hauptsache_weit_kurzgeschichte/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/hauptsache_weit_kurzgeschichte/</guid>
       <description>Analyse der Geschichte &amp;ldquo;Hauptsache weit&amp;rdquo; von Sybille Berg</description>
     </item>
     <item>
       <title>Embryonalentwicklung</title>
-      <link>http://localhost:33575/school/biologie/posts/embryonalentwicklung/</link>
+      <link>http://localhost:43917/school/biologie/posts/embryonalentwicklung/</link>
       <pubDate>Wed, 21 Jan 2026 11:00:39 +0100</pubDate>
-      <guid>http://localhost:33575/school/biologie/posts/embryonalentwicklung/</guid>
+      <guid>http://localhost:43917/school/biologie/posts/embryonalentwicklung/</guid>
       <description>Tabelle und Notizen aus dem Film</description>
     </item>
     <item>
       <title>Widerstand gegen den NS</title>
-      <link>http://localhost:33575/school/geschichte/posts/widerstand_ns/</link>
+      <link>http://localhost:43917/school/geschichte/posts/widerstand_ns/</link>
       <pubDate>Tue, 20 Jan 2026 12:40:30 +0100</pubDate>
-      <guid>http://localhost:33575/school/geschichte/posts/widerstand_ns/</guid>
+      <guid>http://localhost:43917/school/geschichte/posts/widerstand_ns/</guid>
       <description>Nicht alle machten mit</description>
     </item>
     <item>
       <title>Gestapo Szenario</title>
-      <link>http://localhost:33575/school/geschichte/posts/gestapo_szenario/</link>
+      <link>http://localhost:43917/school/geschichte/posts/gestapo_szenario/</link>
       <pubDate>Tue, 20 Jan 2026 12:29:25 +0100</pubDate>
-      <guid>http://localhost:33575/school/geschichte/posts/gestapo_szenario/</guid>
+      <guid>http://localhost:43917/school/geschichte/posts/gestapo_szenario/</guid>
       <description>Du bist 17, dein Freund wird von der Gestapo verhört. Du weißt, dass er eine verbotene Schrift gelesen hat. Ein Lehrer fragt dich aus.</description>
     </item>
     <item>
       <title>Übungen: Binomische Formeln (Textaufgaben)</title>
-      <link>http://localhost:33575/school/mathe/posts/exercise_binomische_formel/</link>
+      <link>http://localhost:43917/school/mathe/posts/exercise_binomische_formel/</link>
       <pubDate>Tue, 20 Jan 2026 11:17:17 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/exercise_binomische_formel/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/exercise_binomische_formel/</guid>
       <description>Übungsaufgaben aus dem Unterricht</description>
     </item>
     <item>
       <title>Binomische Formeln</title>
-      <link>http://localhost:33575/school/mathe/posts/binomische_formel/</link>
+      <link>http://localhost:43917/school/mathe/posts/binomische_formel/</link>
       <pubDate>Tue, 20 Jan 2026 10:37:41 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/binomische_formel/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/binomische_formel/</guid>
       <description>Die Merkmale der verschiedenen binomischen Formeln</description>
     </item>
     <item>
       <title>Eizellbefruchtung</title>
-      <link>http://localhost:33575/school/biologie/posts/befruchtung/</link>
+      <link>http://localhost:43917/school/biologie/posts/befruchtung/</link>
       <pubDate>Mon, 19 Jan 2026 10:48:53 +0100</pubDate>
-      <guid>http://localhost:33575/school/biologie/posts/befruchtung/</guid>
+      <guid>http://localhost:43917/school/biologie/posts/befruchtung/</guid>
       <description>Mechaniken der verschiendene beteiligten Zellen(Eizelle, Spermien)</description>
     </item>
     <item>
       <title>Geopolitik</title>
-      <link>http://localhost:33575/school/erdkunde/posts/geopolitik/</link>
+      <link>http://localhost:43917/school/erdkunde/posts/geopolitik/</link>
       <pubDate>Thu, 15 Jan 2026 12:24:56 +0100</pubDate>
-      <guid>http://localhost:33575/school/erdkunde/posts/geopolitik/</guid>
+      <guid>http://localhost:43917/school/erdkunde/posts/geopolitik/</guid>
       <description>Wie beeinflussen geografische Faktoren (Lage, Ressourcen, Klima) internationale Politik und Machtverhältnisse?</description>
     </item>
     <item>
       <title>Rhetorische Figuren</title>
-      <link>http://localhost:33575/school/deutsch/posts/rhetorische_figuren/</link>
+      <link>http://localhost:43917/school/deutsch/posts/rhetorische_figuren/</link>
       <pubDate>Wed, 14 Jan 2026 12:37:56 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/rhetorische_figuren/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/rhetorische_figuren/</guid>
       <description>Rhetorische Figuren in Texten sind Stil und Hilfsmittel die der Interpretation dienen.</description>
     </item>
     <item>
       <title>Übungen: Ausklammern</title>
-      <link>http://localhost:33575/school/mathe/posts/exercise_ausklammern/</link>
+      <link>http://localhost:43917/school/mathe/posts/exercise_ausklammern/</link>
       <pubDate>Wed, 14 Jan 2026 09:39:49 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/exercise_ausklammern/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/exercise_ausklammern/</guid>
       <description>Ausklammern von Termen</description>
     </item>
     <item>
       <title>Ausklammern / Ausmultiplizieren</title>
-      <link>http://localhost:33575/school/mathe/posts/ausklammern/</link>
+      <link>http://localhost:43917/school/mathe/posts/ausklammern/</link>
       <pubDate>Wed, 14 Jan 2026 09:04:50 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/ausklammern/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/ausklammern/</guid>
       <description>Distributivgesetz</description>
     </item>
     <item>
       <title>Übungen: Lineare Gleichungssysteme (Textaufgaben)</title>
-      <link>http://localhost:33575/school/mathe/posts/exercise_lineare_textaufgaben/</link>
+      <link>http://localhost:43917/school/mathe/posts/exercise_lineare_textaufgaben/</link>
       <pubDate>Tue, 13 Jan 2026 16:41:38 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/exercise_lineare_textaufgaben/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/exercise_lineare_textaufgaben/</guid>
       <description>Übungsaufgaben aus dem Unterricht</description>
     </item>
     <item>
       <title>Funktionen</title>
-      <link>http://localhost:33575/school/mathe/posts/funktionen/</link>
+      <link>http://localhost:43917/school/mathe/posts/funktionen/</link>
       <pubDate>Mon, 12 Jan 2026 00:15:53 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/funktionen/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/funktionen/</guid>
       <description>Erklärungen zu Funktionen</description>
     </item>
     <item>
       <title>Perspektiven</title>
-      <link>http://localhost:33575/school/deutsch/posts/perspektiven/</link>
+      <link>http://localhost:43917/school/deutsch/posts/perspektiven/</link>
       <pubDate>Mon, 12 Jan 2026 00:15:03 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/perspektiven/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/perspektiven/</guid>
       <description>Eine Erzählperspektive ist die Sicht des Erzählers, es werden 3 weitere beschrieben.</description>
     </item>
     <item>
       <title>Fenstertheater - Extra Notizen</title>
-      <link>http://localhost:33575/school/deutsch/posts/fenstertheater/</link>
+      <link>http://localhost:43917/school/deutsch/posts/fenstertheater/</link>
       <pubDate>Sun, 11 Jan 2026 23:46:00 +0100</pubDate>
-      <guid>http://localhost:33575/school/deutsch/posts/fenstertheater/</guid>
+      <guid>http://localhost:43917/school/deutsch/posts/fenstertheater/</guid>
       <description>&lt;p&gt;Extra Notizen zu dem Text &amp;ldquo;Fenstertheater&amp;rdquo; aus dem Unterricht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lineare Gleichungssysteme</title>
-      <link>http://localhost:33575/school/mathe/posts/lineare_gleichungssysteme/</link>
+      <link>http://localhost:43917/school/mathe/posts/lineare_gleichungssysteme/</link>
       <pubDate>Sun, 11 Jan 2026 23:07:45 +0100</pubDate>
-      <guid>http://localhost:33575/school/mathe/posts/lineare_gleichungssysteme/</guid>
+      <guid>http://localhost:43917/school/mathe/posts/lineare_gleichungssysteme/</guid>
       <description>Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen. Gesucht sind die Werte dieser Variablen.</description>
     </item>
   </channel>
