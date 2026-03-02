@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mathe on 4. Semester Notizen</title>
-    <link>http://localhost:1313/school/mathe/</link>
+    <link>http://localhost:33575/school/mathe/</link>
     <description>Recent content in Mathe on 4. Semester Notizen</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Feb 2026 10:49:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:33575/school/mathe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quadratische Funktionen</title>
-      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</link>
+      <link>http://localhost:33575/school/mathe/posts/quadratische_funktionen/</link>
       <pubDate>Wed, 25 Feb 2026 10:49:00 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/quadratische_funktionen/</guid>
       <description>&lt;p&gt;Quadratische Gleichungen haben eine Funktionsgleichung der Form&lt;/p&gt;
 &lt;p&gt;$$y = ax^2+bx+c$$
 $$f(x) = ax^2+bx+c$$&lt;/p&gt;
 &lt;p&gt;Den Graphen einer quadratischen Funktion nennt man Parabel&lt;/p&gt;
 &lt;p&gt;nach oben geöffnet $= a &amp;gt; 0$&lt;/p&gt;
+&lt;p&gt;nach unten geöffnet $= a &amp;lt; 0$&lt;/p&gt;
 &lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/school/images/simple_quadratic_parabola.png#center&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33575/school/images/simple_quadratic_parabola.png#center&#34;
          alt=&#34;Plot&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;&lt;strong&gt;Blau = $x²$ | Rot = $-x²$&lt;/strong&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;nach unten geöffnet $= a &amp;lt; 0$&lt;/p&gt;
 &lt;p&gt;$$
 ax^2 - \text{quadratisches Glied}\\
 bx - \text{lineares Glied}\\
@@ -35,72 +35,72 @@ $$&lt;/p&gt;
     </item>
     <item>
       <title>Formen quadratischer Gleichungen und ihre Lösung</title>
-      <link>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</link>
+      <link>http://localhost:33575/school/mathe/posts/formen_quadratischer_gleichungen/</link>
       <pubDate>Wed, 18 Feb 2026 10:55:44 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/formen_quadratischer_gleichungen/</guid>
       <description>Allgemein und Normalform quadratischer Gleichungen</description>
     </item>
     <item>
       <title>Quadratische Gleichungen ohne absolutes Glied</title>
-      <link>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
+      <link>http://localhost:33575/school/mathe/posts/quadratisch_ohne_absolutes_glied/</link>
       <pubDate>Tue, 17 Feb 2026 15:37:38 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/quadratisch_ohne_absolutes_glied/</guid>
       <description>Lösungsschritte für Quadratische Gleichungen ohne absolutes Glied</description>
     </item>
     <item>
       <title>Reinquadratische Gleichungen</title>
-      <link>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</link>
+      <link>http://localhost:33575/school/mathe/posts/reinquadratische_gleichungen/</link>
       <pubDate>Tue, 10 Feb 2026 11:13:12 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/reinquadratische_gleichungen/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/reinquadratische_gleichungen/</guid>
       <description>Reinquadratische Gleichungen der Form $ax^2+c=0$</description>
     </item>
     <item>
       <title>Übungen: Binomische Formeln (Textaufgaben)</title>
-      <link>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</link>
+      <link>http://localhost:33575/school/mathe/posts/exercise_binomische_formel/</link>
       <pubDate>Tue, 20 Jan 2026 11:17:17 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/exercise_binomische_formel/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/exercise_binomische_formel/</guid>
       <description>Übungsaufgaben aus dem Unterricht</description>
     </item>
     <item>
       <title>Binomische Formeln</title>
-      <link>http://localhost:1313/school/mathe/posts/binomische_formel/</link>
+      <link>http://localhost:33575/school/mathe/posts/binomische_formel/</link>
       <pubDate>Tue, 20 Jan 2026 10:37:41 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/binomische_formel/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/binomische_formel/</guid>
       <description>Die Merkmale der verschiedenen binomischen Formeln</description>
     </item>
     <item>
       <title>Übungen: Ausklammern</title>
-      <link>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</link>
+      <link>http://localhost:33575/school/mathe/posts/exercise_ausklammern/</link>
       <pubDate>Wed, 14 Jan 2026 09:39:49 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/exercise_ausklammern/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/exercise_ausklammern/</guid>
       <description>Ausklammern von Termen</description>
     </item>
     <item>
       <title>Ausklammern / Ausmultiplizieren</title>
-      <link>http://localhost:1313/school/mathe/posts/ausklammern/</link>
+      <link>http://localhost:33575/school/mathe/posts/ausklammern/</link>
       <pubDate>Wed, 14 Jan 2026 09:04:50 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/ausklammern/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/ausklammern/</guid>
       <description>Distributivgesetz</description>
     </item>
     <item>
       <title>Übungen: Lineare Gleichungssysteme (Textaufgaben)</title>
-      <link>http://localhost:1313/school/mathe/posts/exercise_lineare_textaufgaben/</link>
+      <link>http://localhost:33575/school/mathe/posts/exercise_lineare_textaufgaben/</link>
       <pubDate>Tue, 13 Jan 2026 16:41:38 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/exercise_lineare_textaufgaben/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/exercise_lineare_textaufgaben/</guid>
       <description>Übungsaufgaben aus dem Unterricht</description>
     </item>
     <item>
       <title>Funktionen</title>
-      <link>http://localhost:1313/school/mathe/posts/funktionen/</link>
+      <link>http://localhost:33575/school/mathe/posts/funktionen/</link>
       <pubDate>Mon, 12 Jan 2026 00:15:53 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/funktionen/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/funktionen/</guid>
       <description>Erklärungen zu Funktionen</description>
     </item>
     <item>
       <title>Lineare Gleichungssysteme</title>
-      <link>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</link>
+      <link>http://localhost:33575/school/mathe/posts/lineare_gleichungssysteme/</link>
       <pubDate>Sun, 11 Jan 2026 23:07:45 +0100</pubDate>
-      <guid>http://localhost:1313/school/mathe/posts/lineare_gleichungssysteme/</guid>
+      <guid>http://localhost:33575/school/mathe/posts/lineare_gleichungssysteme/</guid>
       <description>Ein lineares Gleichungssystem besteht aus mehreren linearen Gleichungen mit den selben Variablen. Gesucht sind die Werte dieser Variablen.</description>
     </item>
   </channel>
