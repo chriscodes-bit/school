@@ -11,11 +11,11 @@ Ist $a > 1$ ist die Parabel gestreckt.
 
 Ist $a < 1$ ist die Parabel gestaucht.
 
-## Die quadratische Funktioni
+## Die quadratische Funktion
 $$y =(x-d)^2$$
 
 Bisher haben wir die Parabel auf der y-Achse verschoben. Im folgenden, soll die Parabel auf der x-Achse verschoben werden.
-die Funktionsgleichung hat die Form: $y=(x-d)^2$
+Die Funktionsgleichung hat die Form: $y=(x-d)^2$
 
 Bsp.: $y=(x-2)^2$ -> bedeutet, dass die Parabel auf der x-Achse um 2 Einheiten nach rechts verschoben wird.
 
