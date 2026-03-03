@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Erdkunde on 4. Semester Notizen</title>
-    <link>http://localhost:36149/school/erdkunde/</link>
+    <link>http://localhost:1313/school/erdkunde/</link>
     <description>Recent content in Erdkunde on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.156.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Feb 2026 08:59:27 +0100</lastBuildDate>
-    <atom:link href="http://localhost:36149/school/erdkunde/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/school/erdkunde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klimawandel</title>
-      <link>http://localhost:36149/school/erdkunde/posts/klimawandel/</link>
+      <link>http://localhost:1313/school/erdkunde/posts/klimawandel/</link>
       <pubDate>Thu, 12 Feb 2026 08:59:27 +0100</pubDate>
-      <guid>http://localhost:36149/school/erdkunde/posts/klimawandel/</guid>
+      <guid>http://localhost:1313/school/erdkunde/posts/klimawandel/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;$CO_2$&lt;/li&gt;
 &lt;li&gt;Wetter&lt;/li&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>Geopolitik</title>
-      <link>http://localhost:36149/school/erdkunde/posts/geopolitik/</link>
+      <link>http://localhost:1313/school/erdkunde/posts/geopolitik/</link>
       <pubDate>Thu, 15 Jan 2026 12:24:56 +0100</pubDate>
-      <guid>http://localhost:36149/school/erdkunde/posts/geopolitik/</guid>
+      <guid>http://localhost:1313/school/erdkunde/posts/geopolitik/</guid>
       <description>Wie beeinflussen geografische Faktoren (Lage, Ressourcen, Klima) internationale Politik und Machtverhältnisse?</description>
     </item>
   </channel>
