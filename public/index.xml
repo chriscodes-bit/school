@@ -6,10 +6,21 @@
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 10:52:41 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 11:17:12 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quadratische_funktionen_teil2</title>
+      <title>Quadratische Funktionen Teil 3</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil3/</link>
+      <pubDate>Wed, 04 Mar 2026 11:17:12 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil3/</guid>
+      <description>&lt;p&gt;Die quadratische Funktion der Form
+$$y = (x-d)^2+e$$&lt;/p&gt;
+&lt;p&gt;Bisher wurden die Parabeln auf der y-Achse oder auf der x-Achse verschoben.&lt;/p&gt;
+&lt;p&gt;Die Funktionsgleichung $y=(x-d^2)+e$ kombiniert die Verschiebungen. Also gibt es nun eine Verschieben auf der x-Achse und der y-Achse.&lt;/p&gt;
+&lt;p&gt;Da man die Lage des Scheitelpunktes aus dieser Funktionsgleichung direkt ablesen kann, nennt man sie Scheitelpunktform&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quadratische Funktionen Teil 2</title>
       <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil2/</link>
       <pubDate>Tue, 03 Mar 2026 10:52:41 +0100</pubDate>
       <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil2/</guid>
@@ -17,10 +28,10 @@
 Sie kann gestreckt oder gestaucht sein.&lt;/p&gt;
 &lt;p&gt;Ist $a &amp;gt; 1$ ist die Parabel gestreckt.&lt;/p&gt;
 &lt;p&gt;Ist $a &amp;lt; 1$ ist die Parabel gestaucht.&lt;/p&gt;
-&lt;h2 id=&#34;die-quadratische-funktioni&#34;&gt;Die quadratische Funktioni&lt;/h2&gt;
+&lt;h2 id=&#34;die-quadratische-funktion&#34;&gt;Die quadratische Funktion&lt;/h2&gt;
 &lt;p&gt;$$y =(x-d)^2$$&lt;/p&gt;
 &lt;p&gt;Bisher haben wir die Parabel auf der y-Achse verschoben. Im folgenden, soll die Parabel auf der x-Achse verschoben werden.
-die Funktionsgleichung hat die Form: $y=(x-d)^2$&lt;/p&gt;
+Die Funktionsgleichung hat die Form: $y=(x-d)^2$&lt;/p&gt;
 &lt;p&gt;Bsp.: $y=(x-2)^2$ -&amp;gt; bedeutet, dass die Parabel auf der x-Achse um 2 Einheiten nach rechts verschoben wird.&lt;/p&gt;</description>
     </item>
     <item>
