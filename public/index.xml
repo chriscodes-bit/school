@@ -13,11 +13,7 @@
       <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil3/</link>
       <pubDate>Wed, 04 Mar 2026 11:17:12 +0100</pubDate>
       <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil3/</guid>
-      <description>&lt;p&gt;Die quadratische Funktion der Form
-$$y = (x-d)^2+e$$&lt;/p&gt;
-&lt;p&gt;Bisher wurden die Parabeln auf der y-Achse oder auf der x-Achse verschoben.&lt;/p&gt;
-&lt;p&gt;Die Funktionsgleichung $y=(x-d^2)+e$ kombiniert die Verschiebungen. Also gibt es nun eine Verschieben auf der x-Achse und der y-Achse.&lt;/p&gt;
-&lt;p&gt;Da man die Lage des Scheitelpunktes aus dieser Funktionsgleichung direkt ablesen kann, nennt man sie Scheitelpunktform&lt;/p&gt;</description>
+      <description>Verschiebung auf der x und y-Achse</description>
     </item>
     <item>
       <title>Quadratische Funktionen Teil 2</title>

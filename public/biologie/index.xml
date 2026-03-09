@@ -6,8 +6,15 @@
     <description>Recent content in Biologie on 4. Semester Notizen</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 22:02:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 14:32:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/biologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mutationen</title>
+      <link>http://localhost:1313/school/biologie/posts/mutationen/</link>
+      <pubDate>Wed, 04 Mar 2026 14:32:31 +0100</pubDate>
+      <guid>http://localhost:1313/school/biologie/posts/mutationen/</guid>
+      <description>Unterricht vom 03.03.26</description>
+    </item>
     <item>
       <title>DNA Aufbau</title>
       <link>http://localhost:1313/school/biologie/posts/dna_aufbau/</link>
