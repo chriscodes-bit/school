@@ -6,14 +6,69 @@
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 10:38:33 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:24:28 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quadratische_funktionen_teil4</title>
+      <title>Charakterisierung Peeta</title>
+      <link>http://localhost:1313/school/deutsch/posts/charakterisierung_peeta/</link>
+      <pubDate>Tue, 10 Mar 2026 12:24:28 +0100</pubDate>
+      <guid>http://localhost:1313/school/deutsch/posts/charakterisierung_peeta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;LN&lt;/strong&gt;: Wissen aus den vorherigen Kapiteln mit einbeziehen, Textbelege aus dem einen Kapitel, welches dran kommt!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Charakterisierung Aufbau&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Erklärung, wer die Person ist, wie sie zu der Hauptfigur steht, wie sie aussieht und welche Rolle sie für die Handlung spielt&lt;/li&gt;
+&lt;li&gt;Für die Eigenschaften: Textstelle rausscuehn, mit der man das Belegen kann&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Was wissen wir bisher?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bäckersohn, blond, mittelgroß, Distrikt 12&lt;/li&gt;
+&lt;li&gt;Schenkt Katniss ein Brot aus Mitleid, Empathie&lt;/li&gt;
+&lt;li&gt;Stark, weil er viele Mehlsäcke trägt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notizen&#34;&gt;Notizen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Ich habe keine verborgenen Talente&amp;rdquo; (S. 101)&lt;/li&gt;
+&lt;li&gt;Peeta &amp;ldquo;Ich kann gar nichts&amp;rdquo; (S. 101)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Du kannst zentnerschwere Mehlsäcke heben&amp;rdquo; (S. 102)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Er kann ringen&amp;rdquo; &amp;ldquo;[&amp;hellip;]und wurde zweiter hinter seinem Bruder&amp;rdquo; (S. 102)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Sie hat gesagt, die wird überleben&amp;rdquo; (S. 103) -&amp;gt; Peetas Mutter glaubt nicht an den Sieg von Peeta&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Peeta, unterschätze niemals die Körperkraft in der Arena&amp;rdquo; (S. 104)&lt;/li&gt;
+&lt;li&gt;Peeta und Katniss wollen öffentlich keine Freunde sein&lt;/li&gt;
+&lt;li&gt;Katniss war Peeta nicht so gleichgültig wie gedacht -&amp;gt; &amp;ldquo;Das Mehl, das Ringen, Ich habe den Jungen mit dem Brot all die Jahre im Auge behalten&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Peeta erklärt Katniss die verschiedenen Brotsorten aus den Distrikten (S. 111)&lt;/li&gt;
+&lt;li&gt;Peeta stimmt Katniss zu, dass sie abseits der anderen nicht heucheln sollen (S. 113)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Quadratische Funktionen Teil 4</title>
       <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</link>
       <pubDate>Tue, 10 Mar 2026 10:38:33 +0100</pubDate>
       <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</guid>
-      <description></description>
+      <description>&lt;p&gt;Bestimmung des Scheitelpunktes aus der Funktionsgleichung&lt;/p&gt;
+&lt;p&gt;Scheitelpunktform:
+$$
+\begin{aligned}
+y&amp;amp;=x^2+c \to S(0/c)\\
+y&amp;amp;=x^2-c \to S(0/-c)\\
+y&amp;amp;=-x^2+c \to S(0/c)\\
+y&amp;amp;=(x+d)^2 \to S(-d/0)\\
+y&amp;amp;=(x-d)^2 \to S(d/0)\\
+y&amp;amp;=-(x+d)^2 \to S(-d/0)\\
+y&amp;amp;=(x+d)^2+c \to S(-d/c)\\
+y&amp;amp;=(x+d)^2-c \to S(-d/-c)\\
+y&amp;amp;=-(x-d)^2+c \to S(d/c)
+\end{aligned}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;von-der-normalform-in-die-scheitelpunktform&#34;&gt;Von der Normalform in die Scheitelpunktform&lt;/h2&gt;
+&lt;p&gt;$$\text{Normalform }y=x^2+px+q \to \text{Scheitelpunktform }y=(x-d)^2+e$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quadratische Ergänzung&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$$
+y=x^2+6x+1 \to\text{Auf die binomische Formel kommen}\\
+y=x^2+6x+9-9+1 \to +9 \to \text{quadratische Ergänzung direkt wieder abziehen}\\
+y=(x+3)^2-9+1\\
+y=(x+3)^2-8\\
+S(-3/-8)
+$$&lt;/p&gt;</description>
     </item>
     <item>
       <title>Potsdamer Konferenz</title>
