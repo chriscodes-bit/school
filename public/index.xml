@@ -4,16 +4,16 @@
     <title>Startseite on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/</link>
     <description>Recent content in Startseite on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.156.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 17:56:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:38:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mutationsarten</title>
-      <link>http://localhost:1313/school/biologie/posts/mutagene/</link>
-      <pubDate>Mon, 09 Mar 2026 17:56:00 +0100</pubDate>
-      <guid>http://localhost:1313/school/biologie/posts/mutagene/</guid>
-      <description>Arten der Mutationen vom 03.03</description>
+      <title>Quadratische_funktionen_teil4</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</link>
+      <pubDate>Tue, 10 Mar 2026 10:38:33 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</guid>
+      <description></description>
     </item>
     <item>
       <title>Potsdamer Konferenz</title>
@@ -54,7 +54,7 @@ Fabriken, welche der Rüstungsindustrie galten, sollten abgeschafft werden, alle
 &lt;p&gt;Deutschland hat keine eigene Regierung, es existiert nciht als ein selbstständiger Staat. Stattdessen wird es von den 4 Siegermächten fremdbestimmt.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mutationen</title>
+      <title>Mutationsarten</title>
       <link>http://localhost:1313/school/biologie/posts/mutationen/</link>
       <pubDate>Wed, 04 Mar 2026 14:32:31 +0100</pubDate>
       <guid>http://localhost:1313/school/biologie/posts/mutationen/</guid>

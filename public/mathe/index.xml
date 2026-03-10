@@ -4,10 +4,41 @@
     <title>Mathe on 4. Semester Notizen</title>
     <link>http://localhost:1313/school/mathe/</link>
     <description>Recent content in Mathe on 4. Semester Notizen</description>
-    <generator>Hugo -- 0.156.0</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 11:17:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:38:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/mathe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadratische Funktionen Teil 4</title>
+      <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</link>
+      <pubDate>Tue, 10 Mar 2026 10:38:33 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil4/</guid>
+      <description>&lt;p&gt;Bestimmung des Scheitelpunktes aus der Funktionsgleichung&lt;/p&gt;
+&lt;p&gt;Scheitelpunktform:
+$$
+\begin{aligned}
+y&amp;amp;=x^2+c \to S(0/c)\\
+y&amp;amp;=x^2-c \to S(0/-c)\\
+y&amp;amp;=-x^2+c \to S(0/c)\\
+y&amp;amp;=(x+d)^2 \to S(-d/0)\\
+y&amp;amp;=(x-d)^2 \to S(d/0)\\
+y&amp;amp;=-(x+d)^2 \to S(-d/0)\\
+y&amp;amp;=(x+d)^2+c \to S(-d/c)\\
+y&amp;amp;=(x+d)^2-c \to S(-d/-c)\\
+y&amp;amp;=-(x-d)^2+c \to S(d/c)
+\end{aligned}
+$$&lt;/p&gt;
+&lt;h2 id=&#34;von-der-normalform-in-die-scheitelpunktform&#34;&gt;Von der Normalform in die Scheitelpunktform&lt;/h2&gt;
+&lt;p&gt;$$\text{Normalform }y=x^2+px+q \to \text{Scheitelpunktform }y=(x-d)^2+e$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quadratische Ergänzung&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$$
+y=x^2+6x+1 \to\text{Auf die binomische Formel kommen}\\
+y=x^2+6x+9-9+1 \to +9 \to \text{quadratische Ergänzung direkt wieder abziehen}\\
+y=(x+3)^2-9+1\\
+y=(x+3)^2-8\\
+S(-3/-8)
+$$&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quadratische Funktionen Teil 3</title>
       <link>http://localhost:1313/school/mathe/posts/quadratische_funktionen_teil3/</link>
