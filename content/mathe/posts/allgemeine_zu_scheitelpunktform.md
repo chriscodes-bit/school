@@ -1,0 +1,30 @@
+---
+date: '2026-03-11T10:40:04+01:00'
+draft: false
+title: 'Von der allgemeinen Form zur  Scheitelpunktform'
+---
+
+**Allgemeine Form**
+
+$f(x)=ax^2+bx+c$
+
+**Scheitelpunktform**
+
+$f(x)=a(x-d)^2+e$
+
+**Beispiel:**
+
+$$
+\text{allgemeine Form} \to \text{Scheitelpunktform}\\\
+f(x)=\frac{1}{4}x^2-x-2 \to f(x)=a(x-d)^2+e\\\\\\
+\\\
+\frac{1}{4}\text{ ausklammern} \to f(x)=\frac{1}{4}(x^2-4x-8)\\\\\\
+\\\
+f(x)=\frac{1}{4}(x^2-4x+4-4-8) \to \text{Quadratische Ergänzung}\\\
+f(x)=\frac{1}{4}((x-2)^2-4-8)\\\\\\
+\\\
+f(x)=\frac{1}{4}((x-2)^2-12)\\\\\\
+\\\
+\text{äußere Klammer auflösen} \to f(x)=\frac{1}{4}(x-2)^2-3\\\
+S(2/-3)
+$$
