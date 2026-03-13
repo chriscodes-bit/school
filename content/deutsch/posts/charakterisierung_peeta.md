@@ -31,17 +31,23 @@ _Charakterisierung Aufbau_
 - Möchte gemeinsam mit Katniss trainieren (S. 101) -> kennt ihre Stärken besser als sie denkt, möchte gerne Zeit mit ihr verbringen, schätzt sie 
 - Kann gute Gespräche führen (S. 101) -> besitzt Empathie, nett, freundlich, humorvoll
 - "Blasse Haut" (S. 108)
-- "Ich bin doch für die Torten zuständig" (S. 108) -> kann sich gut tarnen, da er Torten verziert hat und hat dadurch ein künstlerisches Talent
+- "Ich bin doch für die Torten zuständig" (S. 108) -> kann sich gut tarnen, da er Torten verziert hat und hat dadurch ein künstlerisches Talent besitzt
 - "Denn ich bezweifle, dass er jemals hinter dem Zaun war." (S. 109) -> muss nicht wie Katniss ums Überleben kämpfen, da er genug zu essen hat, kann sich daher an die Regeln im Distrikt halten
 - "Sie hat keine Ahnung, was für eine Ausstrahlung sie haben kann" (S. 105) -> bewundert Katniss und kümmert sich um sie und hat sie seit ihrem "Kennenlernen" mit dem Brot nie vergessen
 
-## Charakterisierung
+## Charakterisierung aus Kapitel 7
 
-In der Geschichte "Die Tribute von Panem" von Suzanne Collins ist Peeta Mellark einer der Protagonisten, neben Katniss.
+In der Geschichte "Die Tribute von Panem" von Suzanne Collins, ist Peeta Mellark ein Tribut und zählt zu den zentralen Protagonisten.
 
-Peeta ist der Bäckersohn aus Distrikt 12, er ist blond und mittelgroß. Später wird er zusammen mit Katniss als Tribut gewählt.
-In den vorherigen Kapiteln wird offensichtlich, dass seine Mutter und er keine gute Beziehung haben. Dies wird noch klarer, als seine Mutter hofft, dass Katniss die Gewinnerin wird.
-In der Trainingsphase wird klar, dass Peeta sehr empathievoll, nett, freundlich und humorvoll ist. (S. 101)
-Peeta selbst hat wenig Vertrauen in seine Fähigkeiten, wahrscheinlich auf grund seiner Mutter, welche sein Selbstvertrauen immer wieder zermürbte, wahrscheinlich wurde Peeta auch von seiner Mutter geschlagen.
-Katniss muss Peeta erst bewusst machen, welche Stärken er bestitzt. Bspw. seine Körperkraft, seine Anpassungsfähigkeit (Tarnfähigkeit) und sein strategisches Denken.
+Peeta ist der Bäckersohn aus Distrikt 12. Sein Aussehen ist kräftig, er hat blondes Haar und ist mittelgroß (S. 30). 
+Er ist sehr unsicher und hat kein Selbstvertrauen, was an der schwierigen Beziehung mit seiner Mutter liegt, welche den Sieg eher Katniss zutraut, als ihrem eigenen Sohn, "Sie hat gesagt, die wird überleben" (S. 103).
+In der Vergangenheit wurde Peeta von seiner Mutter geschlagen. (S. 50)
+Sein mangelndes Selbstvertrauen ist ein Produkt der elterlichen Beziehung, wahrscheinlich ist er genau deshalb so empathievoll und freundlich, da er weiß, wie es sich anfühlt nicht geliebt zu werden.
 
+Peeta behauptet von sich selbst, dass er nichts kann, jedoch wird in späteren Gesprächen klar, dass er sportlich, beweglich "Er kann ringen" (S.101), sehr stark "Du kannst zentnerschwere Mehlsäcke heben" und kreativ ist sowie Aussagen von Haymitch "Peeta, unterschätze niemals die Körperkraft in der Arena" (S. 101 - 104).
+"Ich bin doch für die Torten zuständig" (S. 108), zeigt seine Kreativität, da er Torten kunstvoll verziert, ist er in der Lage, seine Tarnfarben perfekt an die Umgebung anzupassen.
+
+Die Beziehung zu Katniss, ebenfalls Protagonistin, ist schwierig, beide kennen sich seit ihrer Kindheit, mehr oder weniger flüchtig. Peeta hat Katniss damals mit dem geschenkten Brot das Leben gerettet, ein früher Beweis für seine ausgeprägte Empathie. Peeta bewundert Katniss und macht ihr immer wieder Komplimente, welche oft abprallen oder falsch aufgenommen werden, weil Katniss ebenfalls verunsichert ist.
+
+Alles in allem ist Peeta ein wichtiger Charakter für die Geschichte, welcher schon früher eine signifikante Rolle in Katniss' Leben spielte, dass die beiden sich nun bis auf den Tod bekämpfen müssen ist für beide mehr als unangenehm, vor allem weil Peeta eine große Bewunderung für Katniss hat, fast schon verliebt ist, und sich um sie sorgt.
+Trotz aller Geschehnisse versucht Peeta Hoffnung und Sicherheit zu vermitteln, was ihm mehr oder weniger gelingt, da er sich oft einfach nur anpasst und es allen recht machen möchte.

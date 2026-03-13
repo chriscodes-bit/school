@@ -6,8 +6,33 @@
     <description>Recent content in Startseite on 4. Semester Notizen</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 12:24:28 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 10:40:04 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Von der allgemeinen Form zur  Scheitelpunktform</title>
+      <link>http://localhost:1313/school/mathe/posts/allgemeine_zu_scheitelpunktform/</link>
+      <pubDate>Wed, 11 Mar 2026 10:40:04 +0100</pubDate>
+      <guid>http://localhost:1313/school/mathe/posts/allgemeine_zu_scheitelpunktform/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Allgemeine Form&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$f(x)=ax^2+bx+c$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scheitelpunktform&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$f(x)=a(x-d)^2+e$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beispiel:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$$
+\text{allgemeine Form} \to \text{Scheitelpunktform}\\
+f(x)=\frac{1}{4}x^2-x-2 \to f(x)=a(x-d)^2+e\\\
+\\
+\frac{1}{4}\text{ ausklammern} \to f(x)=\frac{1}{4}(x^2-4x-8)\\\
+\\
+f(x)=\frac{1}{4}(x^2-4x+4-4-8) \to \text{Quadratische Ergänzung}\\
+f(x)=\frac{1}{4}((x-2)^2-4-8)\\\
+\\
+f(x)=\frac{1}{4}((x-2)^2-12)\\\
+\\
+\text{äußere Klammer auflösen} \to f(x)=\frac{1}{4}(x-2)^2-3\\
+S(2/-3)
+$$&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Charakterisierung Peeta</title>
       <link>http://localhost:1313/school/deutsch/posts/charakterisierung_peeta/</link>
@@ -40,12 +65,12 @@
 &lt;li&gt;Möchte gemeinsam mit Katniss trainieren (S. 101) -&amp;gt; kennt ihre Stärken besser als sie denkt, möchte gerne Zeit mit ihr verbringen, schätzt sie&lt;/li&gt;
 &lt;li&gt;Kann gute Gespräche führen (S. 101) -&amp;gt; besitzt Empathie, nett, freundlich, humorvoll&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Blasse Haut&amp;rdquo; (S. 108)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Ich bin doch für die Torten zuständig&amp;rdquo; (S. 108) -&amp;gt; kann sich gut tarnen, da er Torten verziert hat und hat dadurch ein künstlerisches Talent&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Ich bin doch für die Torten zuständig&amp;rdquo; (S. 108) -&amp;gt; kann sich gut tarnen, da er Torten verziert hat und hat dadurch ein künstlerisches Talent besitzt&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Denn ich bezweifle, dass er jemals hinter dem Zaun war.&amp;rdquo; (S. 109) -&amp;gt; muss nicht wie Katniss ums Überleben kämpfen, da er genug zu essen hat, kann sich daher an die Regeln im Distrikt halten&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Sie hat keine Ahnung, was für eine Ausstrahlung sie haben kann&amp;rdquo; (S. 105) -&amp;gt; bewundert Katniss und kümmert sich um sie und hat sie seit ihrem &amp;ldquo;Kennenlernen&amp;rdquo; mit dem Brot nie vergessen&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;charakterisierung&#34;&gt;Charakterisierung&lt;/h2&gt;
-&lt;p&gt;In der Geschichte &amp;ldquo;Die Tribute von Panem&amp;rdquo; von Suzanne Collins ist Peeta Mellark einer der Protagonisten, neben Katniss.&lt;/p&gt;</description>
+&lt;h2 id=&#34;charakterisierung-aus-kapitel-7&#34;&gt;Charakterisierung aus Kapitel 7&lt;/h2&gt;
+&lt;p&gt;In der Geschichte &amp;ldquo;Die Tribute von Panem&amp;rdquo; von Suzanne Collins, ist Peeta Mellark ein Tribut und zählt zu den zentralen Protagonisten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quadratische Funktionen Teil 4</title>
